@@ -1,0 +1,5294 @@
+[
+    {
+        "type": "text",
+        "text": "PERATURAN DAERAH DAERAH ISTIMEWA YOGYAKARTA ",
+        "bbox": [
+            209,
+            226,
+            774,
+            242
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NOMOR 6 TAHUN 2025 ",
+        "bbox": [
+            375,
+            250,
+            607,
+            266
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TENTANG ",
+        "bbox": [
+            442,
+            272,
+            542,
+            287
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PENCEGAHAN DAN PENANGANAN KORBAN ",
+        "bbox": [
+            272,
+            295,
+            710,
+            311
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PERDAGANGAN ORANG ",
+        "bbox": [
+            375,
+            317,
+            614,
+            333
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA ",
+        "bbox": [
+            272,
+            362,
+            712,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GUBERNUR DAERAH ISTIMEWA YOGYAKARTA, ",
+        "text_level": 1,
+        "bbox": [
+            254,
+            408,
+            728,
+            424
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Menimbang ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            477,
+            240,
+            493
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a. bahwa dalam upaya mewujudkan nilai Hamemayu Hayuning Bawana dan menjamin terpenuhinya hak asasi manusia, Pemerintah Daerah Daerah Istimewa Yogyakarta berkewajiban melindungi segenap Masyarakat dari segala bentuk penindasan;   \nb. bahwa terjadinya Perdagangan Orang berakibat Korban mengalami penderitaan dari aspek fisik, psikologis, ekonomi, dan sosial, sehingga memerlukan pencegahan dan penanganan melalui kerja sama lintas sektor;   \nc. bahwa Peraturan Daerah Daerah Istimewa Yogyakarta Nomor 6 Tahun 2014 tentang Perlindungan Terhadap Korban Tindak Pidana Perdagangan Orang sudah tidak sesuai dengan dinamika perubahan peraturan perundang-undangan serta kebutuhan pencegahan dan Penanganan Korban Perdagangan Orang sehingga perlu dicabut dan diganti; ",
+        "bbox": [
+            300,
+            479,
+            864,
+            856
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "SALINAN ",
+        "bbox": [
+            666,
+            39,
+            875,
+            71
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            426,
+            42,
+            555,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "GUBERNUR DAERAH ISTIMEWA YOGYAKARTA ",
+        "bbox": [
+            258,
+            160,
+            727,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pencegahan dan Penanganan Korban Perdagangan Orang; ",
+        "bbox": [
+            303,
+            89,
+            862,
+            175
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mengingat ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            205,
+            225,
+            221
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; ",
+        "bbox": [
+            302,
+            203,
+            862,
+            242
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720); ",
+        "bbox": [
+            305,
+            250,
+            862,
+            356
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Undang-Undang Nomor 3 Tahun 1950 tentang Pembentukan Daerah Provinsi Daerah Istimewa Jogjakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 3) sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 9 Tahun 1955 tentang Perubahan Undang-Undang Nomor 3 jo. Nomor 19 Tahun 1950 Tentang Pembentukan Daerah Istimewa Jogjakarta (Lembaran Negara Republik Indonesia Tahun 1955 Nomor 43, Tambahan Lembaran Negara Republik Indonesia Nomor 827); ",
+        "bbox": [
+            303,
+            362,
+            862,
+            581
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Undang-Undang Nomor 13 Tahun 2012 tentang Keistimewaan Daerah Istimewa Yogyakarta (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 170, Tambahan Lembaran Negara Republik Indonesia Nomor 5339); ",
+        "bbox": [
+            303,
+            588,
+            864,
+            695
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah diubah terakhir dengan UndangUndang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 Tentang Cipta Kerja Menjadi Undang-Undang (Lembaran Negara Republik ",
+        "bbox": [
+            300,
+            701,
+            864,
+            900
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            486,
+            38,
+            511,
+            50
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856); 6. Peraturan Pemerintah Nomor 31 Tahun 1950 tentang Berlakunya Undang-Undang Nomor 2 Tahun 1950 tentang Pembentukan Propinsi Djawa Timoer, Undang-Undang Nomor 3 Tahun 1950 tentang Pembentukan Daerah Istimewa Jogjakarta, UndangUndang Nomor 10 Tahun 1950 tentang Pembentukan Propinsi Djawa Tengah, dan Undang-Undang Nomor 11 Tahun 1950 tentang Pembentukan Propinsi Djawa Barat (Berita Negara Republik Indonesia Tahun 1950 Nomor 58); ",
+        "bbox": [
+            299,
+            89,
+            864,
+            356
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dengan Persetujuan Bersama ",
+        "bbox": [
+            344,
+            386,
+            638,
+            400
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DEWAN PERWAKILAN RAKYAT DAERAH ",
+        "bbox": [
+            294,
+            407,
+            692,
+            422
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DAERAH ISTIMEWA YOGYAKARTA ",
+        "bbox": [
+            323,
+            429,
+            663,
+            444
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "dan ",
+        "bbox": [
+            473,
+            454,
+            511,
+            467
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GUBERNUR DAERAH ISTIMEWA YOGYAKARTA ",
+        "bbox": [
+            259,
+            474,
+            727,
+            490
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MEMUTUSKAN: Menetapkan: PERATURAN DAERAH TENTANG PENCEGAHAN DAN PENANGANAN KORBAN PERDAGANGAN ORANG. ",
+        "bbox": [
+            102,
+            520,
+            779,
+            580
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BAB I KETENTUAN UMUM ",
+        "bbox": [
+            392,
+            611,
+            593,
+            650
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pasal 1 ",
+        "text_level": 1,
+        "bbox": [
+            457,
+            680,
+            527,
+            695
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dalam Peraturan Daerah ini, yang dimaksud dengan: ",
+        "bbox": [
+            263,
+            702,
+            784,
+            718
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Perdagangan Orang adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi. ",
+        "bbox": [
+            269,
+            725,
+            875,
+            900
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            486,
+            38,
+            511,
+            49
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            312,
+            89,
+            874,
+            151
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Korban adalah orang yang mengalami penderitaan psikis, mental, fisik, seksual, ekonomi, dan/atau sosial, yang diakibatkan Perdagangan Orang. ",
+        "bbox": [
+            266,
+            158,
+            872,
+            220
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Pencegahan Perdagangan Orang adalah segala upaya yang ditujukan untuk mencegah sedini mungkin terjadinya Perdagangan Orang serta mencegah agar Perdagangan Orang tidak terulang kembali. ",
+        "bbox": [
+            266,
+            226,
+            874,
+            310
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Penanganan Korban Perdagangan Orang adalah tindakan yang diberikan kepada Korban dalam rangka pemulihan kesehatan dan psikososial, pemberian bantuan hukum, Pemulangan dan reintegrasi guna pemenuhan hak Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            316,
+            875,
+            423
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. Pekerja Migran Indonesia adalah setiap warga negara Indonesia yang akan, sedang, atau telah melakukan pekerjaan dengan menerima upah di luar wilayah Republik Indonesia. ",
+        "bbox": [
+            266,
+            429,
+            874,
+            513
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun, termasuk Anak yang masih dalam kandungan. ",
+        "bbox": [
+            266,
+            519,
+            874,
+            581
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang adalah dokumen operasional sebagai pedoman Pencegahan dan Penanganan Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            588,
+            875,
+            671
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT adalah suatu unit kesatuan yang menyelenggarakan pelayanan terpadu untuk Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            678,
+            874,
+            740
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. Rehabilitasi Kesehatan adalah pemulihan Korban Perdagangan Orang dari gangguan kesehatan yang dideritanya baik fisik maupun psikis yang dilaksanakan di Pusat Pelayanan Terpadu. ",
+        "bbox": [
+            266,
+            746,
+            874,
+            829
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. Rehabilitasi Sosial adalah pemulihan Korban Perdagangan Orang dari gangguan terhadap kondisi mental sosial dan pengembalian keberfungsian sosial agar dapat melaksanakan perannya kembali secara wajar baik dalam keluarga maupun dalam Masyarakat. ",
+        "bbox": [
+            267,
+            836,
+            874,
+            899
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            486,
+            38,
+            513,
+            49
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            310,
+            89,
+            872,
+            129
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. Pemulangan adalah tindakan pengembalian Korban Perdagangan Orang ke daerah asal atau negara asal dengan tetap mengutamakan pelayanan perlindungan dan pemenuhan kebutuhannya. ",
+        "bbox": [
+            267,
+            135,
+            874,
+            220
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Reintegrasi Sosial adalah penyatuan kembali Korban Perdagangan Orang kepada pihak keluarga atau pengganti keluarga yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi Korban. ",
+        "bbox": [
+            267,
+            226,
+            874,
+            311
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. Restitusi adalah pembayaran ganti kerugian kepada Korban Perdagangan Orang yang dibebankan kepada pelaku berdasarkan putusan pengadilan yang berkekuatan hukum tetap atas kerugian materiil dan/atau immateriil yang diderita Korban atau ahli warisnya. ",
+        "bbox": [
+            267,
+            316,
+            875,
+            445
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. Rumah Perlindungan Sosial adalah lembaga atau panti yang bertujuan untuk memberikan perlindungan awal kepada Korban sebelum dirujuk ke lembaga atau panti lain yang memberikan pelayanan lebih intensif. ",
+        "bbox": [
+            267,
+            452,
+            874,
+            536
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. Pusat Trauma adalah suatu lembaga atau panti yang menjadi pusat peredaman (penurunan atau penghilangan) kondisi traumatis yang dialami Korban Perdagangan Orang. ",
+        "bbox": [
+            267,
+            543,
+            874,
+            626
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. Masyarakat adalah perorangan, kelompok, lembaga swadaya Masyarakat, dan/atau badan usaha baik yang berbadan hukum maupun tidak berbadan hukum. ",
+        "bbox": [
+            267,
+            633,
+            874,
+            695
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. Daerah adalah Daerah Istimewa Yogyakarta. ",
+        "bbox": [
+            266,
+            700,
+            745,
+            717
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. Pemerintah Daerah Daerah Istimewa Yogyakarta yang selanjutnya disebut Pemerintah Daerah adalah Gubernur Daerah Istimewa Yogyakarta dan Perangkat Daerah sebagai unsur penyelenggara pemerintahan daerah. ",
+        "bbox": [
+            267,
+            724,
+            875,
+            808
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. Pemerintah Kabupaten/Kota adalah Bupati/Walikota dan perangkat daerah Kabupaten/Kota sebagai unsur penyelenggara Pemerintah Kabupaten/Kota meliputi Kabupaten Sleman, Kabupaten Kulon Progo, Kabupaten ",
+        "bbox": [
+            267,
+            813,
+            874,
+            899
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            486,
+            38,
+            511,
+            49
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Gunungkidul, Kabupaten Bantul dan Kota Yogyakarta. ",
+        "bbox": [
+            308,
+            89,
+            846,
+            106
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. Gubernur adalah Gubernur Daerah Istimewa Yogyakarta. ",
+        "bbox": [
+            264,
+            113,
+            870,
+            129
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. Perangkat Daerah adalah perangkat daerah sebagai unsur pembantu Gubernur dan Dewan Perwakilan Rakyat Daerah Daerah Istimewa Yogyakarta dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah Istimewa Yogyakarta. ",
+        "bbox": [
+            266,
+            135,
+            874,
+            242
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pasal 2 ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            271,
+            606,
+            287
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan berdasarkan asas: ",
+        "bbox": [
+            264,
+            295,
+            869,
+            332
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a. pelindungan, penghormatan, dan penegakan hak asasi manusia;   \nb. kolaboratif;   \nc. partisipatif;   \nd. keamanan;   \ne. keadilan;   \nf. inklusif;   \ng. non diskriminatif; dan   \nh. kepastian hukum. ",
+        "bbox": [
+            264,
+            340,
+            867,
+            537
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pasal 3 ",
+        "text_level": 1,
+        "bbox": [
+            529,
+            566,
+            604,
+            581
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pengaturan Pencegahan dan Penanganan Korban ",
+        "bbox": [
+            266,
+            589,
+            874,
+            605
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Perdagangan Orang bertujuan: ",
+        "bbox": [
+            267,
+            611,
+            568,
+            627
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a. melindungi, menghormati, dan menegakkan hak asasi manusia bagi Masyarakat di Daerah;   \nb. mencegah terjadinya Perdagangan Orang; dan   \nc. memulihkan kerugian yang dialami Korban Perdagangan Orang baik pada aspek fisik, psikologis, ekonomi, dan sosial melalui kerja sama lintas sektor. ",
+        "bbox": [
+            264,
+            634,
+            875,
+            763
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            486,
+            38,
+            511,
+            50
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BAB II ",
+        "text_level": 1,
+        "bbox": [
+            535,
+            90,
+            602,
+            105
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TANGGUNG JAWAB PEMERINTAH DAERAH ",
+        "text_level": 1,
+        "bbox": [
+            351,
+            113,
+            785,
+            129
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pasal 4 ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            159,
+            606,
+            174
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemerintah Daerah bertanggung jawab dalam Pencegahan dan Penanganan Korban Perdagangan Orang meliputi: ",
+        "bbox": [
+            267,
+            180,
+            874,
+            242
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. menetapkan dan melaksanakan kebijakan, program, dan kegiatan; dan b. menjalin kerja sama dengan berbagai pihak. ",
+        "bbox": [
+            310,
+            249,
+            874,
+            311
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) Tanggung jawab sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang perlindungan Anak dan perempuan. ",
+        "bbox": [
+            266,
+            317,
+            875,
+            402
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BAB III ",
+        "text_level": 1,
+        "bbox": [
+            534,
+            431,
+            606,
+            444
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PENCEGAHAN PERDAGANGAN ORANG ",
+        "text_level": 1,
+        "bbox": [
+            372,
+            453,
+            761,
+            468
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kesatu ",
+        "bbox": [
+            498,
+            498,
+            638,
+            514
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Umum ",
+        "bbox": [
+            537,
+            521,
+            602,
+            535
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pasal 5 ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            566,
+            606,
+            582
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemerintah Daerah melaksanakan Pencegahan Perdagangan Orang. ",
+        "bbox": [
+            264,
+            589,
+            867,
+            628
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2) Pencegahan Perdagangan Orang sebagaimana dimaksud pada ayat (1) meliputi: ",
+        "bbox": [
+            266,
+            635,
+            867,
+            673
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a. pemetaan kerentanan terjadinya Perdagangan Orang;   \nb. edukasi kepada Masyarakat;   \nc. pemberdayaan Masyarakat;   \nd. pengendalian proses penempatan Pekerja Migran Indonesia;   \ne. pelindungan pekerja formal dan non formal di dalam negeri;   \nf. pengendalian proses pemagangan di luar negeri;   \ng. pengendalian proses pertukaran pelajar dan mahasiswa;   \nh. pengendalian proses pengangkatan Anak;   \ni. Pencegahan Perdagangan Orang pada kegiatan prostitusi;   \nj. pencegahan perdagangan organ tubuh manusia;   \nk. pengelolaan industri pariwisata; dan   \nl. pengendalian pemanfaatan sistem elektronik. ",
+        "bbox": [
+            310,
+            680,
+            869,
+            878
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            486,
+            38,
+            511,
+            49
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            310,
+            88,
+            869,
+            265
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3) Pencegahan Perdagangan Orang sebagaimana dimaksud pada ayat (2) dilaksanakan secara sinergi dengan gugus tugas Perdagangan Orang Daerah dan/atau Gugus Tugas Perdagangan Orang Kabupaten/Kota. ",
+        "bbox": [
+            266,
+            271,
+            869,
+            357
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4) Dalam melaksanakan Pencegahan Perdagangan Orang sebagaimana dimaksud pada ayat (2) melibatkan: ",
+        "bbox": [
+            266,
+            361,
+            869,
+            401
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a. instansi vertikal di Daerah;   \nb. Pemerintah Kabupaten/Kota;   \nc. Pemerintah Kalurahan dan Kelurahan;   \nd. dunia usaha dan/atau dunia industri;   \ne. lembaga pendidikan;   \nf. organisasi kemasyarakatan; dan/atau g. lembaga swadaya Masyarakat. ",
+        "bbox": [
+            310,
+            407,
+            735,
+            559
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kedua ",
+        "text_level": 1,
+        "bbox": [
+            500,
+            588,
+            637,
+            604
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pemetaan Kerentanan Terjadinya Perdagangan Orang ",
+        "text_level": 1,
+        "bbox": [
+            308,
+            610,
+            831,
+            627
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pasal 6 ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            656,
+            606,
+            671
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemetaan kerentanan terjadinya Perdagangan Orang sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a memuat paling sedikit: ",
+        "bbox": [
+            266,
+            679,
+            875,
+            741
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a. wilayah rentan Korban Perdagangan Orang;   \nb. wilayah asal Korban Perdagangan Orang;   \nc. tipologi Korban dan/atau pelaku Perdagangan Orang; dan   \nd. motif Perdagangan Orang. ",
+        "bbox": [
+            310,
+            746,
+            875,
+            854
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "-8- ",
+        "bbox": [
+            486,
+            38,
+            513,
+            50
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) Hasil dari pemetaan kerentanan sebagaimana dimaksud pada ayat (1) digunakan sebagai dasar penyusunan dan/atau menjadi bagian dari Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            89,
+            875,
+            197
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bagian Ketiga ",
+        "text_level": 1,
+        "bbox": [
+            501,
+            226,
+            637,
+            242
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Edukasi Kepada Masyarakat ",
+        "bbox": [
+            429,
+            250,
+            710,
+            265
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pasal 7 ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            295,
+            606,
+            310
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Edukasi kepada Masyarakat sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b dilakukan dengan memberikan pemahaman tentang: ",
+        "bbox": [
+            266,
+            317,
+            874,
+            378
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "a. definisi Perdagangan Orang;   \nb. pelindungan tenaga kerja;   \nc. pertukaran pelajar atau mahasiswa;   \nd. praktik kerja lapangan atau magang yang diselenggarakan oleh lembaga pendidikan;   \ne. industri kepariwisataan;   \nf. pelindungan perempuan dan Anak;   \ng. pelindungan disabilitas;   \nh. pemanfaatan internet dan media sosial; dan i. pelaksanaan ibadah haji dan umroh. ",
+        "bbox": [
+            310,
+            386,
+            875,
+            604
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) Edukasi kepada Masyarakat sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Perangkat Daerah terkait sesuai dengan tugas dan fungsinya ",
+        "bbox": [
+            266,
+            611,
+            874,
+            673
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bagian Keempat Pemberdayaan Masyarakat ",
+        "bbox": [
+            436,
+            702,
+            704,
+            742
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pasal 8 ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            771,
+            606,
+            786
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemberdayaan Masyarakat sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf c dilaksanakan pada aspek: ",
+        "bbox": [
+            264,
+            793,
+            872,
+            833
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "a. pendidikan; dan b. ekonomi. ",
+        "bbox": [
+            312,
+            839,
+            509,
+            877
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            486,
+            38,
+            511,
+            49
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) Pemberdayaan Masyarakat sebagaimana dimaksud pada ayat (1) dilakukan di wilayah rentan timbul Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            89,
+            874,
+            151
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3) Pemberdayaan Masyarakat pada aspek pendidikan sebagaimana dimaksud pada ayat (1) huruf a bertujuan untuk: ",
+        "bbox": [
+            266,
+            158,
+            874,
+            219
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a. meningkatkan kapabilitas Masyarakat untuk mengakses pendidikan;   \nb. mencegah terjadinya putus sekolah; dan/atau   \nc. meningkatkan kapabilitas Masyarakat untuk mengakses pekerjaan yang layak. ",
+        "bbox": [
+            310,
+            225,
+            875,
+            333
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4) Pemberdayaan Masyarakat pada aspek pendidikan sebagaimana dimaksud pada ayat (1) huruf a dilakukan paling sedikit melalui: ",
+        "bbox": [
+            266,
+            339,
+            874,
+            401
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a. pemberian akses pembiayaan pendidikan kepada Masyarakat kurang mampu; dan/atau   \nb. pemberian akses pendidikan khusus dan/atau pendidikan inklusif bagi penyandang disabilitas. ",
+        "bbox": [
+            310,
+            407,
+            874,
+            491
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5) Pemberdayaan Masyarakat pada aspek pendidikan sebagaimana dimaksud pada ayat (1) huruf a dilaksanakan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pendidikan. ",
+        "bbox": [
+            266,
+            497,
+            875,
+            604
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Pasal 9 ",
+        "text_level": 1,
+        "bbox": [
+            539,
+            633,
+            612,
+            649
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemberdayaan Masyarakat pada aspek ekonomi sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf b bertujuan untuk: ",
+        "bbox": [
+            266,
+            656,
+            874,
+            717
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a. meningkatkan taraf hidup Masyarakat; dan b. meningkatkan kemandirian Masyarakat. ",
+        "bbox": [
+            310,
+            724,
+            782,
+            763
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) Pemberdayaan Masyarakat pada aspek ekonomi sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf b dilakukan melalui: ",
+        "bbox": [
+            266,
+            768,
+            872,
+            831
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a. penyelenggaraan pelatihan keterampilan;   \nb. penyelenggaraan pelatihan literasi keuangan;   \nc. pembukaan lapangan kerja di Daerah;   \nd. pemberian akses sumber daya untuk berwirausaha; dan/atau   \ne. pemberian akses sumber daya untuk mengembangkan usaha. ",
+        "bbox": [
+            312,
+            837,
+            799,
+            900
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "-10- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            310,
+            89,
+            874,
+            174
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) Pemberdayaan Masyarakat pada aspek ekonomi sebagaimana dimaksud pada ayat (2) dilaksanakan oleh Perangkat Daerah terkait sesuai dengan tugas dan fungsinya. ",
+        "bbox": [
+            266,
+            180,
+            874,
+            265
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kelima ",
+        "text_level": 1,
+        "bbox": [
+            498,
+            295,
+            640,
+            310
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pengendalian Proses Penempatan Pekerja Migran Indonesia ",
+        "bbox": [
+            281,
+            317,
+            857,
+            333
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pasal 10 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            362,
+            612,
+            378
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1) Pengendalian proses penempatan Pekerja Migran Indonesia sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf d dilaksanakan dengan: ",
+        "bbox": [
+            266,
+            385,
+            867,
+            447
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a. menyelenggarakan pendidikan dan pelatihan kerja bagi calon Pekerja Migran Indonesia;   \nb. menyediakan sistem informasi pasar kerja dan menyosialisasikannya kepada Masyarakat;   \nc. memberikan informasi yang akurat kepada Masyarakat tentang daftar perusahaan penempatan Pekerja Migran Indonesia;   \nd. mengatur, membina, dan mengawasi lembaga penempatan Pekerja Migran Indonesia;   \ne. melaporkan hasil evaluasi terhadap perusahaan penempatan Pekerja Migran Indonesia secara berjenjang dan periodik kepada Menteri yang membidangi ketenagakerjaan;   \nf. memberikan pelindungan Pekerja Migran Indonesia sebelum bekerja dan setelah bekerja;   \ng. menyediakan pos bantuan dan pelayanan di tempat pemberangkatan dan pemulangan Pekerja Migran Indonesia yang memenuhi syarat dan standar kesehatan; dan ",
+        "bbox": [
+            310,
+            455,
+            869,
+            886
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "-11- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "h. menyediakan dan memfasilitasi pelatihan calon Pekerja Migran Indonesia melalui pelatihan vokasi. ",
+        "bbox": [
+            310,
+            90,
+            869,
+            131
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2) Penyediaan sistem informasi pasar kerja sebagaimana dimaksud pada ayat (1) huruf b memuat paling sedikit: ",
+        "bbox": [
+            264,
+            137,
+            869,
+            177
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "a. jenis pekerjaan;   \nb. persyaratan yang dibutuhkan; dan   \nc. dokumen yang diprasyaratkan untuk bekerja di luar negeri. ",
+        "bbox": [
+            310,
+            183,
+            867,
+            267
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3) Pengawasan sebagaimana dimaksud pada ayat (1) huruf d dilaksanakan pada tahap: a. perizinan pendirian kantor cabang perusahaan penempatan Pekerja Migran Indonesia; dan b. pelaksanaan penempatan Pekerja Migran Indonesia sesuai dengan ketentuan peraturan perundangundangan. ",
+        "bbox": [
+            264,
+            272,
+            869,
+            425
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4) Pengendalian proses penempatan Pekerja Migran Indonesia sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan. ",
+        "bbox": [
+            266,
+            432,
+            869,
+            539
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Bagian Keenam Pelindungan Pekerja Formal dan Non Formal di Dalam Negeri ",
+        "bbox": [
+            349,
+            567,
+            789,
+            629
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Pasal 11 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            658,
+            611,
+            674
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1) Pelindungan pekerja formal dan non formal di dalam negeri sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf e dilakukan melalui: ",
+        "bbox": [
+            266,
+            681,
+            872,
+            743
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "a. sosialisasi mengenai:   \n1. hak pekerja; dan   \n2. Perdagangan Orang. b. menyediakan informasi pasar kerja; c. menyediakan informasi lembaga penyalur tenaga kerja yang resmi; dan/atau ",
+        "bbox": [
+            310,
+            748,
+            874,
+            880
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            153,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "-12- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "d. pengawasan terhadap lembaga penempatan tenaga kerja. ",
+        "bbox": [
+            310,
+            89,
+            872,
+            129
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) Pengawasan terhadap lembaga penempatan tenaga kerja sebagaimana dimaksud pada ayat (1) huruf (d) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.   \n(3) Pelindungan pekerja formal dan nonformal sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Perangkat Daerah terkait. ",
+        "bbox": [
+            266,
+            135,
+            875,
+            287
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Bagian Ketujuh ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            317,
+            647,
+            332
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pengendalian Proses Pemagangan di Luar Negeri ",
+        "text_level": 1,
+        "bbox": [
+            331,
+            340,
+            805,
+            356
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pasal 12 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            386,
+            612,
+            401
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pemagangan di luar negeri dapat diselenggarakan oleh: ",
+        "bbox": [
+            266,
+            408,
+            802,
+            424
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "a. lembaga pelatihan kerja swasta;   \nb. perusahaan;   \nc. instansi pemerintah; dan/atau   \nd. lembaga pendidikan formal yang didirikan oleh Pemerintah dan/atau yang mendapatkan izin dari Pemerintah. ",
+        "bbox": [
+            264,
+            431,
+            869,
+            560
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pasal 13 ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            589,
+            609,
+            605
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) Pengendalian pemagangan di luar negeri kepada penyelenggara pemagangan sebagaimana dimaksud dalam Pasal 12 huruf a, huruf b, dan huruf c dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            266,
+            611,
+            869,
+            696
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "a. memberikan rekomendasi kepada lembaga pelatihan kerja swasta dan perusahaan yang akan mengajukan permohonan izin sesuai dengan ketentuan peraturan perundang-undangan;   \nb. meminta informasi mengenai hasil rekrut dan seleksi calon peserta magang kepada penyelenggara magang;   \nc. meminta laporan pelaksanaan pemagangan secara berkala dan saat pemagangan selesai; dan ",
+        "bbox": [
+            310,
+            702,
+            869,
+            900
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "-13- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "d. melaksanakan pembinaan kepada penyelenggara pemagangan pada aspek yang meliputi program, sumber daya manusia, fasilitas, metode, dan sistem penyelenggaraan pemagangan. ",
+        "bbox": [
+            310,
+            89,
+            869,
+            175
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) Pengendalian pemagangan di luar negeri sebagaimana dimaksud pada ayat (1) dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan. ",
+        "bbox": [
+            267,
+            180,
+            869,
+            265
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Pasal 14 ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            295,
+            607,
+            310
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Pengendalian pemagangan di luar negeri kepada penyelenggara pemagangan sebagaimana dimaksud dalam Pasal 12 huruf d dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            266,
+            316,
+            869,
+            401
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "a. menyampaikan informasi kepada Masyarakat mengenai institusi atau perusahaan yang bekerja sama dengan Pemerintah Daerah dalam penyelenggaraan magang bagi pelajar atau mahasiswa;   \nb. meminta laporan magang dari lembaga pendidikan; dan   \nc. berkoordinasi dengan lembaga pengawas yang berwenang dalam pengendalian proses magang yang diselenggarakan oleh perguruan tinggi di Daerah. ",
+        "bbox": [
+            312,
+            408,
+            869,
+            649
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2) Pengendalian proses pemagangan di luar negeri sebagaimana dimaksud pada ayat (1) dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pendidikan. ",
+        "bbox": [
+            267,
+            655,
+            867,
+            741
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kedelapan ",
+        "text_level": 1,
+        "bbox": [
+            478,
+            770,
+            653,
+            786
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Pengendalian Proses Pertukaran Pelajar dan Mahasiswa ",
+        "bbox": [
+            294,
+            792,
+            838,
+            808
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Pasal 15 ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            838,
+            609,
+            853
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1) Pengendalian proses pertukaran pelajar dan mahasiswa sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf g dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            266,
+            860,
+            869,
+            900
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            156,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "-14- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            312,
+            89,
+            710,
+            106
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "a. bekerja sama dengan lembaga pendidikan di luar Daerah dalam penyelenggaraan pertukaran pelajar;   \nb. menyampaikan informasi kepada Masyarakat tentang lembaga pendidikan yang bekerja sama dengan Pemerintah Daerah dalam penyelenggaraan pertukaran pelajar; dan   \nc. melakukan pengawasan terhadap kerja sama dan penyelenggaraan kegiatan pertukaran pelajar oleh lembaga pendidikan sesuai kewenangannya. ",
+        "bbox": [
+            310,
+            113,
+            869,
+            310
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) Lembaga pendidikan sebagaimana dimaksud pada ayat (1) huruf a melaporkan rencana dan hasil penyelenggaraan kegiatan pertukaran pelajar kepada Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pendidikan. ",
+        "bbox": [
+            266,
+            316,
+            869,
+            423
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) Pengendalian proses pertukaran pelajar dan mahasiswa sebagaimana dimaksud pada ayat (1) dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pendidikan. ",
+        "bbox": [
+            266,
+            429,
+            869,
+            514
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(4) Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pendidikan berkoordinasi dengan lembaga pengawas yang berwenang dalam pengendalian proses pertukaran mahasiswa yang diselenggarakan oleh perguruan tinggi di Daerah. ",
+        "bbox": [
+            266,
+            520,
+            869,
+            627
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kesembilan ",
+        "text_level": 1,
+        "bbox": [
+            472,
+            656,
+            660,
+            671
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Pengendalian Proses Pengangkatan Anak ",
+        "bbox": [
+            367,
+            679,
+            764,
+            695
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Pasal 16 ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            725,
+            609,
+            740
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Pengendalian proses pengangkatan Anak sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf h dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            267,
+            747,
+            867,
+            808
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "a. melakukan sosialisasi atas peraturan perundangundangan yang mengatur tentang prosedur pengangkatan Anak; ",
+        "bbox": [
+            312,
+            814,
+            867,
+            878
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "-15- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "b. mengoptimalkan peran tim pertimbangan pengangkatan Anak Daerah dalam memberikan pertimbangan dalam pemberian izin pengangkatan Anak; dan   \nc. melaksanakan pengawasan dan evaluasi terhadap pelaksanaan pengangkatan Anak di Daerah. ",
+        "bbox": [
+            310,
+            89,
+            869,
+            220
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) Pengendalian proses pengangkatan Anak sebagaimana dimaksud pada ayat (1) dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang sosial bekerja sama dengan Perangkat Daerah terkait sesuai tugas dan fungsinya. ",
+        "bbox": [
+            266,
+            226,
+            869,
+            333
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) Pengendalian proses pengangkatan Anak sebagaimana dimaksud pada ayat (1) dilaksanakan dengan melibatkan organisasi profesi di bidang kebidanan. ",
+        "bbox": [
+            267,
+            339,
+            867,
+            401
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kesepuluh ",
+        "text_level": 1,
+        "bbox": [
+            477,
+            429,
+            656,
+            445
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Pencegahan Perdagangan Orang pada Kegiatan Prostitusi ",
+        "bbox": [
+            284,
+            453,
+            844,
+            469
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Pasal 17 ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            498,
+            607,
+            514
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) Pencegahan Perdagangan Orang pada kegiatan prostitusi sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf i dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            267,
+            520,
+            867,
+            582
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "a. melakukan edukasi kepada Masyarakat mengenai risiko prostitusi; dan/atau   \nb. melakukan pengawasan terhadap situs yang berpotensi memuat pelayanan prostitusi. ",
+        "bbox": [
+            310,
+            588,
+            867,
+            673
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) Pencegahan Perdagangan Orang pada kegiatan prostitusi sebagaimana dimaksud pada ayat (1) huruf a dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang sosial dan perlindungan perempuan dan Anak. ",
+        "bbox": [
+            266,
+            679,
+            869,
+            786
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) Pencegahan Perdagangan Orang pada kegiatan prostitusi sebagaimana dimaksud pada ayat (1) huruf b dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika. ",
+        "bbox": [
+            266,
+            792,
+            869,
+            899
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "discarded",
+        "text": "-16- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kesebelas ",
+        "text_level": 1,
+        "bbox": [
+            478,
+            90,
+            648,
+            105
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pencegahan Perdagangan Organ Tubuh Manusia ",
+        "text_level": 1,
+        "bbox": [
+            325,
+            113,
+            800,
+            130
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pasal 18 ",
+        "text_level": 1,
+        "bbox": [
+            519,
+            159,
+            606,
+            174
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1) Pencegahan perdagangan organ tubuh manusia sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf j dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            267,
+            181,
+            867,
+            242
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "a. melakukan edukasi kepada Masyarakat mengenai transplantasi organ tubuh yang benar secara hukum; dan   \nb. melakukan pengawasan terhadap mekanisme dan prosedur tindakan medis yang melibatkan organ tubuh manusia yang dilakukan oleh fasilitas kesehatan di Daerah. ",
+        "bbox": [
+            310,
+            249,
+            869,
+            401
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(2) Pencegahan perdagangan organ tubuh manusia sebagaimana dimaksud pada ayat (1) dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang kesehatan. ",
+        "bbox": [
+            266,
+            407,
+            867,
+            491
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kedua Belas Pengelolaan Industri Pariwisata ",
+        "bbox": [
+            411,
+            520,
+            720,
+            560
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pasal 19 ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            589,
+            609,
+            605
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(1) Pengelolaan industri pariwisata sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf k dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            266,
+            611,
+            869,
+            673
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "a. memberikan penyuluhan dan/atau bentuk sosialisasi lainnya tentang Perdagangan Orang yang dapat terjadi melalui aktivitas kepariwisataan kepada pelaku industri pariwisata dan Masyarakat;   \nb. memberikan pelatihan kepada pekerja industri pariwisata dan Masyarakat tentang deteksi dini dan pelaporan apabila terjadi tindakan yang berpotensi atau telah menimbulkan Perdagangan Orang;   \nc. melakukan pembinaan dan pengawasan terhadap pelaku industri pariwisata dalam melakukan kegiatan usahanya; dan   \nd. memberikan sanksi sesuai ketentuan peraturan perundang-undangan terhadap pelaku industri pariwisata yang dalam kegiatan usahanya terjadi Perdagangan Orang. ",
+        "bbox": [
+            312,
+            680,
+            869,
+            854
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "discarded",
+        "text": "-17- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            310,
+            89,
+            869,
+            242
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) Pengelolaan industri pariwisata sebagaimana dimaksud pada ayat (1) dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pariwisata. ",
+        "bbox": [
+            267,
+            248,
+            869,
+            332
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Bagian Ketiga Belas ",
+        "text_level": 1,
+        "bbox": [
+            482,
+            362,
+            674,
+            378
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Pengendalian Pemanfaatan Sistem Elektronik ",
+        "text_level": 1,
+        "bbox": [
+            344,
+            385,
+            789,
+            401
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Pasal 20 ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            431,
+            609,
+            445
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1) Pengendalian pemanfaatan sistem elektronik sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf l dilaksanakan paling sedikit dengan cara: ",
+        "bbox": [
+            266,
+            453,
+            867,
+            515
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "a. menyampaikan informasi akses situs terindikasi Perdagangan Orang kepada Pemerintah Pusat;   \nb. melakukan penyebarluasan informasi kepada Masyarakat mengenai modus Perdagangan Orang melalui sistem elektronik; dan   \nc. mengelola aduan Masyarakat tentang potensi terjadinya Perdagangan Orang. ",
+        "bbox": [
+            310,
+            520,
+            869,
+            673
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2) Pengendalian pemanfaatan sistem elektronik sebagaimana dimaksud pada ayat (1) dilakukan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika. ",
+        "bbox": [
+            266,
+            679,
+            869,
+            763
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "-18- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "BAB IV ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            90,
+            606,
+            105
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PENANGANAN KORBAN PERDAGANGAN ORANG ",
+        "text_level": 1,
+        "bbox": [
+            328,
+            113,
+            808,
+            129
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kesatu ",
+        "bbox": [
+            498,
+            159,
+            640,
+            174
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Umum ",
+        "bbox": [
+            535,
+            181,
+            602,
+            195
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Pasal 21 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            226,
+            611,
+            242
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemerintah Daerah melaksanakan Penanganan Korban Perdagangan Orang melalui: ",
+        "bbox": [
+            264,
+            249,
+            867,
+            288
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "a. Rehabilitasi Kesehatan; b. Rehabilitasi Sosial; c. Pemulangan; d. Reintegrasi Sosial; dan/atau e. pemberian bantuan hukum (2) Penanganan Korban Perdagangan Orang sebagaimana dimaksud pada ayat (1) didahului dengan asesmen Korban. ",
+        "bbox": [
+            310,
+            295,
+            637,
+            401
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            267,
+            407,
+            867,
+            468
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(3) Penanganan Korban Perdagangan Orang sebagaimana dimaksud pada ayat (1) dilaksanakan secara terkoordinasi dengan: ",
+        "bbox": [
+            267,
+            474,
+            869,
+            536
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "a. instansi vertikal di Daerah; b. Pemerintah Kabupaten/Kota; dan/atau c. pihak lain yang terkait. ",
+        "bbox": [
+            310,
+            543,
+            743,
+            606
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Pasal 22 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            634,
+            612,
+            649
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(1) Korban Perdagangan Orang ditangani oleh PPT kabupaten/kota. ",
+        "bbox": [
+            266,
+            656,
+            872,
+            695
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(2) Dalam hal penanganan oleh PPT kabupaten/kota membutuhkan penanganan lanjutan, maka PPT kabupaten/kota dapat merujuk ke PPT provinsi. ",
+        "bbox": [
+            266,
+            701,
+            872,
+            763
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(3) PPT provinsi sebagaimana dimaksud pada ayat (2) dibentuk dengan mengoptimalkan unit pelaksana teknis pada Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang perlindungan perempuan dan Anak. ",
+        "bbox": [
+            266,
+            770,
+            874,
+            877
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "discarded",
+        "text": "-19- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Pasal 23 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            90,
+            612,
+            105
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Penanganan Korban Perdagangan Orang sebagaimana dimaksud dalam Pasal 22 dapat dilaksanakan di: ",
+        "bbox": [
+            264,
+            113,
+            875,
+            151
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "a. Rumah Perlindungan Sosial; b. rumah aman;   \nc. Pusat Trauma; dan/atau   \nd. lembaga/panti. ",
+        "bbox": [
+            264,
+            158,
+            589,
+            242
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kedua Asesmen Korban ",
+        "bbox": [
+            486,
+            271,
+            653,
+            311
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Pasal 24 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            340,
+            612,
+            356
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) Asesmen Korban sebagaimana dimaksud dalam Pasal 21 ayat (2) berupa: ",
+        "bbox": [
+            266,
+            362,
+            872,
+            402
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "a. penggalian informasi dari Korban dan pihak lain yang terkait;   \nb. penentuan jenis penanganan yang dibutuhkan Korban; dan   \nc. rencana intervensi penanganan sesuai dengan kebutuhan Korban. ",
+        "bbox": [
+            310,
+            407,
+            874,
+            536
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2) Asesmen Korban sebagaimana dimaksud pada ayat (1) dilakukan dengan prinsip: ",
+        "bbox": [
+            264,
+            543,
+            872,
+            582
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "a. kerahasiaan;   \nb. berbasis trauma dan/atau masalah;   \nc. peka terhadap Korban;   \nd. ramah Anak;   \ne. peka gender; dan f. sesuai dengan budaya. ",
+        "bbox": [
+            310,
+            589,
+            710,
+            718
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Bagian Ketiga Rehabilitasi Kesehatan ",
+        "text_level": 1,
+        "bbox": [
+            455,
+            747,
+            684,
+            786
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Pasal 25 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            816,
+            612,
+            831
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(1) Rehabilitasi Kesehatan sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf a meliputi: ",
+        "bbox": [
+            264,
+            838,
+            874,
+            878
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "a. penerimaan rujukan Korban Perdagangan Orang; ",
+        "bbox": [
+            310,
+            883,
+            838,
+            900
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            156,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "-20- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "b. triase oleh tenaga kesehatan dan menentukan layanan lanjutan kepada Korban Perdagangan Orang setelah melakukan anamnesis, pemeriksaan fisik, dan pemeriksaan penunjang diagnostik;   \nc. pemeriksaan lengkap yang dilakukan setelah kegawatdaruratan teratasi;   \nd. rujukan medis dan psikososial;   \ne. dokumentasi hasil temuan dalam rekam medis; dan   \nf. pembuatan visum et-repertum dan visum etpsikiatrikum atas permintaan penyidik kepolisian. ",
+        "bbox": [
+            310,
+            89,
+            875,
+            310
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) Pelaksanaan Rehabilitasi Kesehatan sebagaimana dimaksud pada ayat (1) bekerja sama dengan fasilitas kesehatan dan disesuaikan dengan indikasi medis Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            316,
+            875,
+            401
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(3) Pembiayaan terhadap pelaksanaan Rehabilitasi Kesehatan sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundang-undangan. ",
+        "bbox": [
+            266,
+            407,
+            874,
+            469
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Pasal 26 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            498,
+            612,
+            513
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemerintah Daerah dan/atau Pemerintah Kabupaten/Kota dapat memberikan jaminan kesehatan dalam Rehabilitasi Kesehatan Korban Perdagangan Orang sesuai kewenangan dan kemampuan keuangan daerah. ",
+        "bbox": [
+            266,
+            520,
+            874,
+            626
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2) Jaminan kesehatan yang diberikan oleh Pemerintah Daerah dan/atau Pemerintah Kabupaten/Kota sebagaimana dimaksud pada ayat (1) bersifat penyangga terhadap jaminan kesehatan yang diselenggarakan oleh Pemerintah Pusat. ",
+        "bbox": [
+            266,
+            633,
+            874,
+            740
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "discarded",
+        "text": "-21- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Bagian Keempat Rehabilitasi Sosial ",
+        "text_level": 1,
+        "bbox": [
+            478,
+            90,
+            661,
+            129
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Pasal 27 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            159,
+            611,
+            174
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Rehabilitasi Sosial sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf b meliputi: ",
+        "bbox": [
+            264,
+            180,
+            872,
+            220
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a. menyediakan layanan psikososial;   \nb. menyediakan pendampingan psikososial; dan/atau   \nc. menyediakan pekerja sosial dan pendamping lainnya yang memahami kekhususan Korban dari aspek usia, kondisi fisik, dan kondisi psikologis. ",
+        "bbox": [
+            264,
+            226,
+            875,
+            333
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Bagian Kelima Pemulangan ",
+        "bbox": [
+            496,
+            362,
+            642,
+            402
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Pasal 28 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            431,
+            612,
+            445
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Pemulangan sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf c meliputi: ",
+        "bbox": [
+            264,
+            453,
+            872,
+            493
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a. menerima Korban sesuai dengan berita acara serah terima dari petugas kementerian yang menyelenggarakan urusan pemerintahan di bidang sosial dan satuan tugas Korban Perdagangan Orang;   \nb. melakukan Pemulangan Korban dari Daerah ke kabupaten/kota asal; dan/atau   \nc. mengoordinasikan Pemulangan Korban dengan pemerintah daerah asal. ",
+        "bbox": [
+            264,
+            498,
+            875,
+            674
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Bagian Keenam Reintegrasi Sosial ",
+        "bbox": [
+            482,
+            702,
+            658,
+            742
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Pasal 29 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            771,
+            612,
+            786
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(1) Reintegrasi Sosial sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf d dilaksanakan dengan: ",
+        "bbox": [
+            264,
+            793,
+            872,
+            833
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a. memantau paling sedikit 3 (tiga) bulan setelah Korban dipulangkan ke keluarganya; ",
+        "bbox": [
+            310,
+            838,
+            874,
+            878
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "discarded",
+        "text": "-22- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "b. mengedukasi keluarga dan Masyarakat di sekitar tempat tinggal Korban untuk menerima Korban kembali; dan   \nc. menyelenggarakan program pemberdayaan bagi Korban Perdagangan Orang sesuai karakteristiknya. ",
+        "bbox": [
+            310,
+            89,
+            875,
+            197
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(2) Pemberdayaan bagi Korban Perdagangan Orang sebagaimana dimaksud pada ayat (1) huruf c meliputi: ",
+        "bbox": [
+            266,
+            203,
+            874,
+            242
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "a. penyediaan pendidikan formal dan nonformal serta pelatihan vokasional; dan   \nb. penyediaan lapangan pekerjaan dan/atau akses permodalan. ",
+        "bbox": [
+            310,
+            248,
+            874,
+            333
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Bagian Ketujuh ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            362,
+            647,
+            378
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Pemberian Bantuan Hukum ",
+        "bbox": [
+            431,
+            385,
+            707,
+            401
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Pasal 30 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            431,
+            612,
+            445
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemberian bantuan hukum sebagaimana dimaksud dalam Pasal 21 ayat (1) huruf e meliputi: ",
+        "bbox": [
+            264,
+            453,
+            874,
+            493
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "a. pendampingan proses penanganan hukum; dan b. pendampingan dalam proses permohonan Restitusi. ",
+        "bbox": [
+            310,
+            498,
+            864,
+            537
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(2) Pemberian bantuan hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan peraturan perundang-undangan. ",
+        "bbox": [
+            267,
+            544,
+            874,
+            605
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "BAB V ",
+        "text_level": 1,
+        "bbox": [
+            535,
+            635,
+            602,
+            650
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "RENCANA AKSI DAERAH PENCEGAHAN DAN PENANGANAN ",
+        "text_level": 1,
+        "bbox": [
+            271,
+            657,
+            864,
+            673
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "KORBAN PERDAGANGAN ORANG ",
+        "text_level": 1,
+        "bbox": [
+            405,
+            680,
+            735,
+            696
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Pasal 31 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            726,
+            611,
+            741
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemerintah Daerah menyusun Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang berdasarkan hasil pemetaan kerentanan terjadinya Perdagangan Orang sebagaimana dimaksud dalam Pasal 6 ayat (2). ",
+        "bbox": [
+            266,
+            747,
+            875,
+            855
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "discarded",
+        "text": "-23- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(2) Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang sebagaimana dimaksud pada ayat (1) berlaku selama 5 (lima) tahun. ",
+        "bbox": [
+            266,
+            89,
+            874,
+            151
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(3) Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang sebagaimana dimaksud pada ayat (1) paling sedikit memuat: ",
+        "bbox": [
+            266,
+            158,
+            874,
+            220
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "a. latar belakang dan kondisi Pencegahan dan Penanganan Korban Perdagangan Orang di Daerah;   \nb. arah kebijakan dan strategi Pencegahan dan Penanganan Korban Perdagangan Orang;   \nc. matriks; dan   \nd. mekanisme kerja. ",
+        "bbox": [
+            310,
+            225,
+            875,
+            356
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(4) Penyusunan Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Perangkat Daerah yang memiliki tugas fungsi pendukung perumusan kebijakan strategis bidang kesejahteraan rakyat. ",
+        "bbox": [
+            266,
+            361,
+            875,
+            490
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(5) Ketentuan lebih lanjut mengenai Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Gubernur. ",
+        "bbox": [
+            266,
+            497,
+            875,
+            581
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "BAB VI ",
+        "text_level": 1,
+        "bbox": [
+            532,
+            610,
+            606,
+            625
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "KERJA SAMA DAN SINERGI ",
+        "text_level": 1,
+        "bbox": [
+            431,
+            633,
+            707,
+            649
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Pasal 32 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            679,
+            612,
+            695
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemerintah Daerah menjalin kerja sama dalam rangka Pencegahan dan Penanganan Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            701,
+            874,
+            763
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(2) Kerja sama sebagaimana dimaksud pada ayat (1) dilakukan antara Pemerintah Daerah dengan: ",
+        "bbox": [
+            264,
+            770,
+            872,
+            808
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "a. pemerintah daerah provinsi lain;   \nb. pemerintah kabupaten/kota;   \nc. lembaga pendidikan;   \nd. fasilitas kesehatan; ",
+        "bbox": [
+            310,
+            814,
+            676,
+            899
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "discarded",
+        "text": "-24- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "e. dunia usaha dunia industri; f. lembaga swadaya Masyarakat; dan/atau g. pihak lainnya sesuai dengan kebutuhan. ",
+        "bbox": [
+            310,
+            89,
+            756,
+            151
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(3) Kerja sama sebagaimana dimaksud pada ayat (1) diselenggarakan sesuai ketentuan peraturan perundangundangan. ",
+        "bbox": [
+            267,
+            158,
+            869,
+            220
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Pasal 33 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            250,
+            612,
+            265
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(1) Pemerintah Daerah bersinergi dengan Pemerintah Pusat dalam rangka Pencegahan dan Penanganan Korban Perdagangan Orang. ",
+        "bbox": [
+            266,
+            271,
+            874,
+            333
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(2) Sinergi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai ketentuan peraturan perundangundangan. ",
+        "bbox": [
+            266,
+            340,
+            872,
+            401
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "BAB VII ",
+        "text_level": 1,
+        "bbox": [
+            529,
+            431,
+            609,
+            445
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "PERAN SERTA MASYARAKAT ",
+        "text_level": 1,
+        "bbox": [
+            424,
+            453,
+            714,
+            468
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Pasal 34 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            499,
+            611,
+            514
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(1) Masyarakat berperan serta membantu upaya Pencegahan dan Penanganan Korban Perdagangan Orang. ",
+        "bbox": [
+            264,
+            521,
+            874,
+            560
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(2) Peran serta Masyarakat sebagaimana dimaksud pada ayat (1) diwujudkan dengan tindakan memberikan informasi dan/atau melaporkan adanya Perdagangan Orang kepada penegak hukum atau pihak yang berwajib, atau turut serta dalam menangani Korban Perdagangan Orang. ",
+        "bbox": [
+            264,
+            566,
+            874,
+            696
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            957,
+            841,
+            982
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "discarded",
+        "text": "-25- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "BAB VIII ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            90,
+            612,
+            104
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "PENDANAAN ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            113,
+            633,
+            128
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Pasal 35 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            159,
+            612,
+            174
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Pendanaan kegiatan upaya Pencegahan dan Penanganan Korban Perdagangan Orang yang dilaksanakan oleh Pemerintah Daerah bersumber dari: ",
+        "bbox": [
+            266,
+            181,
+            875,
+            242
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "a. anggaran pendapatan dan belanja Daerah; dan/atau b. sumber lain yang sah dan tidak mengikat. ",
+        "bbox": [
+            264,
+            250,
+            825,
+            288
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "BAB IX ",
+        "bbox": [
+            532,
+            317,
+            606,
+            332
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "KETENTUAN PENUTUP ",
+        "text_level": 1,
+        "bbox": [
+            455,
+            340,
+            684,
+            356
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Pasal 36 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            386,
+            612,
+            401
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Pada saat Peraturan Daerah ini mulai berlaku, Peraturan Daerah Daerah Istimewa Yogyakarta Nomor 6 Tahun 2014 tentang Perlindungan Terhadap Korban Tindak Pidana Perdagangan Orang (Lembaran Daerah Daerah Istimewa Yogyakarta Tahun 2014 Nomor 6, Tambahan Lembaran Daerah Daerah Istimewa Yogyakarta Nomor 6) dicabut dan dinyatakan tidak berlaku. ",
+        "bbox": [
+            266,
+            408,
+            875,
+            560
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            957,
+            843,
+            982
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "discarded",
+        "text": "-26- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Pasal 37 ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            90,
+            611,
+            105
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. ",
+        "bbox": [
+            266,
+            113,
+            872,
+            150
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Daerah Istimewa Yogyakarta. ",
+        "bbox": [
+            264,
+            181,
+            867,
+            232
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Ditetapkan di Yogyakarta pada tanggal 24 Oktober 2025 ",
+        "bbox": [
+            483,
+            267,
+            782,
+            300
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "GUBERNUR DAERAH ISTIMEWA YOGYAKARTA, ",
+        "bbox": [
+            488,
+            319,
+            839,
+            352
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "ttd.",
+        "bbox": [
+            647,
+            373,
+            681,
+            386
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "HAMENGKU BUWONO X ",
+        "bbox": [
+            542,
+            406,
+            789,
+            421
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Diundangkan di Yogyakarta pada tanggal 24 Oktober 2025 ",
+        "bbox": [
+            112,
+            458,
+            411,
+            490
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "SEKRETARIS DAERAH DAERAH ISTIMEWA YOGYAKARTA, ",
+        "bbox": [
+            112,
+            510,
+            460,
+            543
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "ttd.",
+        "bbox": [
+            240,
+            563,
+            276,
+            577
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "NI MADE DWIPANTI INDRAYANTI ",
+        "bbox": [
+            114,
+            596,
+            441,
+            611
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "NOREG PERATURAN DAERAH DAERAH ISTIMEWA YOGYAKARTA : ",
+        "bbox": [
+            114,
+            731,
+            769,
+            747
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            156,
+            956,
+            841,
+            981
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "discarded",
+        "text": "Salinan sesuai dengan aslinya Ditandatangani secara elektronik oleh: Kepala Biro Hukum, Cahyo Wid ayat, S.H., M.Si. ",
+        "bbox": [
+            109,
+            801,
+            387,
+            862
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "discarded",
+        "text": "-27- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "discarded",
+        "text": "LEMBARAN DAERAH DAERAH ISTIMEWA YOGYAKARTA TAHUN 2025 NOMOR 6 ",
+        "bbox": [
+            112,
+            662,
+            870,
+            695
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "PENJELASAN ",
+        "bbox": [
+            423,
+            270,
+            560,
+            285
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "ATAS ",
+        "bbox": [
+            465,
+            294,
+            519,
+            308
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "PERATURAN DAERAH DAERAH ISTIMEWA YOGYAKARTA ",
+        "text_level": 1,
+        "bbox": [
+            207,
+            315,
+            776,
+            331
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "NOMOR 6 TAHUN 2025 ",
+        "bbox": [
+            375,
+            339,
+            607,
+            354
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "TENTANG ",
+        "bbox": [
+            446,
+            361,
+            545,
+            376
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "PENCEGAHAN DAN PENANGANAN KORBAN ",
+        "bbox": [
+            274,
+            383,
+            709,
+            398
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "PERDAGANGAN ORANG ",
+        "bbox": [
+            375,
+            406,
+            614,
+            422
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "I. UMUM ",
+        "bbox": [
+            111,
+            452,
+            207,
+            467
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Amanat dalam Pasal 28 I Ayat 1 Undang-Undang Dasar 1945 yang menyatakan hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani, hak beragama, hak untuk tidak diperbudak, hak untuk diakui sebagai pribadi di hadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku surut adalah hak asasi manusia yang tidak dapat dikurangi dalam keadaan apapun. Hak-hak kemanusiaan bersifat kodrati, hak asasi manusia sudah ada sejak manusia itu dilahirkan di dunia ini. Hal tersebut meletakkan peran negara dan pemerintahan untuk melindungi setiap warga negara secara berkeadilan dan berkeadaban. ",
+        "bbox": [
+            135,
+            473,
+            875,
+            694
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Hak tersebut juga harus dilaksanakan sebaik mungkin agar bisa secara maksimal Masyarakat Indonesia terbebas dari Perdagangan Orang. Perdagangan Orang (human trafficking) dinyatakan dalam Undang-Undang Nomor 21 Tahun 2007 merupakan tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi. Pada dasarnya, Perdagangan Orang merupakan kejahatan luar biasa (extraordinary crime) yang perlu penanganan secara komprehensif dari hulu sampai hilir. Kasus Perdagangan Orang melibatkan sindikat dengan jaringan yang besar dan luas, serta cakupannya bisa lintas batas negara. Hal tersebut disertai dengan ragam modus yang dilakukan, seperti: pengiriman Pekerja Migran Indonesia ke luar negeri tanpa adanya dokumen resmi, penempatan kerja di dalam negeri untuk dieksploitasi secara seksual, penyelenggaraan perkawinan berbatas waktu tertentu sebagai cara legalisasi hubungan seksual dengan kompensasi finansial, penyelenggaraan perkawinan antar negara melalui pesanan, perekrutan Anak-anak menjadi pekerja, pengangkatan bayi tanpa proses yang benar, serta modus lainnya. ",
+        "bbox": [
+            135,
+            700,
+            875,
+            920
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            153,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "discarded",
+        "text": "-28- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            137,
+            89,
+            875,
+            377
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Daerah Istimewa Yogyakarta merupakan wilayah yang rentan sebagai locus Perdagangan Orang akibat efek negatif berbagai pilihan kebijakan yang dikerjakan. Pemerintah Daerah memilih kebudayaan, pendidikan dan pariwisata sebagai leading sectors. Pembangunan di Daerah telah membawa banyak manfaat bagi kesejahteraan Masyarakat melalui peningkatan infrastruktur, pendidikan, dan pemberdayaan ekonomi. Kemajuan dalam bidang kebudayaan dan pendidikan telah mengokohkan Daerah sebagai pusat pendidikan terbesar di Indonesia. Daerah tidak hanya menjadi pusat pendidikan formal tetapi juga menjadi tempat bagi perkembangan ilmu pengetahuan dan budaya di Indonesia. Kemajuan tersebut disertai dengan semakin tingginya peluang dan potensi Perdagangan Orang melalui pemagangan kerja. Pemagangan merupakan program di mana individu, seperti siswa atau mahasiswa, mendapatkan pengalaman kerja di suatu perusahaan atau institusi sebagai bagian dari pendidikan mereka. ",
+        "bbox": [
+            137,
+            382,
+            875,
+            716
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Kekuatan ekonomi wisata yang tinggi juga mempunyai peluang besar bagi tumbuhnya pelaku usaha yang tersamar di balik perkembangan dan kemajuan tersebut. Pengelolaan jasa akomodasi semakin terbuka, seperti kost bercampur dan kost eksklusif yang tidak lagi memiliki kontrol sosial. Persaingan hotel yang semakin tinggi juga mendorong dibukanya kesempatan atas komersialisasi seksualitas dan prostitusi. Pertumbuhan pusat-pusat hiburan, karaoke dan diskotik (dark tourism) juga tidak terelakkan, sehingga menyusun performa Daerah dalam dinamika perubahan yang semakin kapitalistik dan citra yang terus tidak bisa dipastikan atau bahkan memburuk. Kemudian, kemajuan pembangunan teknologi informasi dan komunikasi (TIK) telah memberikan banyak manfaat bagi Masyarakat, seperti akses informasi publik yang meningkat, pemberdayaan usaha mikro kecil menengah (UMKM) melalui bisnis digital (Puspitasari, 2023), pengembangan pemuda dan komunitas yang mulai memanfaatkan teknologi untuk menciptakan bisnis baru, seperti $e \\cdot$ - commerce, layanan berbasis aplikasi, dan konten kreatif, transformasi $e \\cdot$ - government, layanan kesehatan digital, serta kolaborasi dan jejaring sosial global yang menguat. Tidak bisa dipungkiri, pelaku Perdagangan Orang sering menggunakan platform digital untuk merekrut Korban. Kasus Perdagangan Orang menampilkan jumlah trafficker yang kecil, namun jumlah Korban bersifat multiplicativa. Pertumbuhan pelaku perdagangan berkaitan dengan keterlibatan pelaku pada perusahaan agen Pekerja Migran Indonesia dan berkaitan dengan dunia prostitusi yang melibatkan mucikari, mami, dan majikan, serta keterlibatan pelaku usaha digital yang mengenal praktik perdagangan seks komersial, tetapi juga tidak jarang melibatkan pekerja seks itu sendiri. Pertumbuhan mengikuti deret hitung yang naik konstan (steady growth), namun jumlah Korban melibatkan warga rentan yang eksponensial (exponential growth). Hal ini menunjukkan semakin pentingnya memahami perubahan-perubahan sosial dan ekonomi di Masyarakat yang menyusun semakin banyaknya warga yang menjadi Korban atau dikorbankan dalam pembangunan. ",
+        "bbox": [
+            137,
+            722,
+            875,
+            920
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            153,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            135,
+            87,
+            875,
+            582
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Permasalahan yang semakin hari menjadi semakin kompleks harus dicegah sedini mungkin dan ditangani semaksimal mungkin. Peran Pemerintah Daerah menjadi sangat sentral di tengah-tengah ketidakberdayaan Masyarakat melakukannya karena keterbatasan sumber daya. Oleh karena itu Pemerintah Daerah perlu memastikan kewenangan tentang Pencegahan dan Penanganan Korban Perdagangan Orang yang ada di Daerah. Kolaborasi menjadi kunci penting dalam Pencegahan dan Penanganan Korban Perdagangan Orang. ",
+        "bbox": [
+            137,
+            587,
+            875,
+            762
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "II. PASAL DEMI PASAL ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            813,
+            370,
+            828
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Pasal 1 ",
+        "bbox": [
+            143,
+            837,
+            215,
+            851
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            207,
+            858,
+            328,
+            874
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "discarded",
+        "text": "-30- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            156,
+            956,
+            841,
+            981
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Pasal 2 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            90,
+            218,
+            105
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Huruf a ",
+        "bbox": [
+            205,
+            113,
+            284,
+            127
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas pelindungan, penghormatan, dan penegakan hak asasi manusia” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan sebagai upaya mempertahankan hak-hak yang melekat pada manusia. ",
+        "bbox": [
+            261,
+            135,
+            848,
+            241
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Huruf b ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            249,
+            285,
+            263
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas kolaboratif” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan dengan kolaborasi antara berbagai pemangku kepentingan. ",
+        "bbox": [
+            263,
+            271,
+            848,
+            355
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Huruf c ",
+        "bbox": [
+            205,
+            362,
+            282,
+            376
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas partisipatif” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan dengan melibatkan Masyarakat. ",
+        "bbox": [
+            263,
+            385,
+            848,
+            444
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Huruf d ",
+        "bbox": [
+            205,
+            452,
+            285,
+            467
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas keamanan” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan dengan memberikan jaminan keamanan bagi Korban. ",
+        "bbox": [
+            263,
+            474,
+            848,
+            558
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Huruf e ",
+        "bbox": [
+            205,
+            565,
+            282,
+            579
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas keadilan” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan untuk memberikan keadilan berupa kesempatan yang sama untuk mencapai kesejahteraan. ",
+        "bbox": [
+            263,
+            588,
+            848,
+            671
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Huruf f ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            679,
+            281,
+            693
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas inklusif” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan dengan memperhatikan kekhususan yang dimiliki Korban. ",
+        "bbox": [
+            263,
+            700,
+            848,
+            783
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Huruf g ",
+        "text_level": 1,
+        "bbox": [
+            205,
+            791,
+            284,
+            806
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas non diskriminatif” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama, dan antar golongan yang bersifat merugikan kepentingan Korban. ",
+        "bbox": [
+            263,
+            813,
+            848,
+            898
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "discarded",
+        "text": "-31- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            259,
+            89,
+            800,
+            106
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asas kepastian hukum” adalah Pencegahan dan Penanganan Korban Perdagangan Orang diselenggarakan sesuai dengan peraturan perundangundangan yang berlaku dan demi terwujudnya ketertiban dalam Masyarakat. ",
+        "bbox": [
+            259,
+            135,
+            849,
+            242
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Pasal 3 Cukup jelas. ",
+        "bbox": [
+            143,
+            271,
+            331,
+            310
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Pasal 4 Cukup jelas. ",
+        "bbox": [
+            143,
+            339,
+            331,
+            378
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Pasal 5 Cukup jelas. ",
+        "bbox": [
+            143,
+            406,
+            331,
+            445
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Pasal 6 Cukup jelas. ",
+        "bbox": [
+            143,
+            474,
+            331,
+            513
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Pasal 7 Cukup jelas. ",
+        "bbox": [
+            143,
+            542,
+            330,
+            581
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Pasal 8 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            610,
+            218,
+            625
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Ayat (1) Yang dimaksud dengan “pemberdayaan Masyarakat” adalah peningkatan kualitas sumber daya manusia setiap anggota Masyarakat di Daerah dalam rangka mencegah terjadinya Perdagangan Orang. ",
+        "bbox": [
+            204,
+            633,
+            849,
+            739
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Ayat (2) Cukup jelas.   \nAyat (3) Cukup jelas.   \nAyat (4) Cukup jelas. ",
+        "bbox": [
+            202,
+            746,
+            377,
+            875
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Ayat (5) Cukup jelas. ",
+        "bbox": [
+            205,
+            90,
+            375,
+            129
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Pasal 9 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            158,
+            218,
+            173
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Ayat (1) Cukup jelas.   \nAyat (2) Cukup jelas.   \nAyat (3) Yang dimaksud dengan “Perangkat Daerah terkait sesuai tugas dan fungsinya” antara lain adalah Perangkat Daerah yang membidangi sosial, koperasi, usaha kecil dan menengah, ketenagakerjaan, pariwisata, perdagangan, kelautan, pertanian dan pemberdayaan perempuan, perlindungan Anak dan pengendalian penduduk. ",
+        "bbox": [
+            205,
+            179,
+            856,
+            425
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Pasal 10 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            452,
+            230,
+            467
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Ayat (1) ",
+        "bbox": [
+            205,
+            474,
+            282,
+            490
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Huruf a ",
+        "text_level": 1,
+        "bbox": [
+            251,
+            498,
+            330,
+            512
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “pelatihan kerja” adalah keseluruhan kegiatan untuk memberi, memperoleh, meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos kerja pada tingkat keterampilan dan keahlian tertentu sesuai dengan jenjang dan kualifikasi jabatan atau pekerjaan. ",
+        "bbox": [
+            305,
+            519,
+            849,
+            670
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Huruf b ",
+        "text_level": 1,
+        "bbox": [
+            251,
+            679,
+            331,
+            693
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “informasi pasar kerja” adalah gabungan, rangkaian, dan analisis data yang berbentuk angka yang telah diolah, naskah dan dokumen yang mempunyai arti, nilai, dan makna tertentu mengenai ketenagakerjaan. ",
+        "bbox": [
+            305,
+            699,
+            848,
+            807
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Huruf c ",
+        "bbox": [
+            251,
+            814,
+            328,
+            828
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            310,
+            836,
+            433,
+            852
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "discarded",
+        "text": "-33- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Huruf d ",
+        "bbox": [
+            251,
+            89,
+            331,
+            105
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Termasuk di dalamnya usaha-usaha perekurutan penempatan awak kapal (manning agency). ",
+        "bbox": [
+            308,
+            112,
+            854,
+            151
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Huruf e Cukup jelas.   \nHuruf f Cukup jelas.   \nHuruf g Cukup jelas.   \nHuruf h Cukup jelas.   \nAyat (2) Cukup jelas.   \nAyat (3) Cukup jelas.   \nAyat (4) Cukup jelas. ",
+        "bbox": [
+            250,
+            158,
+            437,
+            332
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            202,
+            339,
+            377,
+            469
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Pasal 11 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            497,
+            228,
+            512
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan pekerja non formal adalah pekerja yang bekerja pada sektor non formal misalnya pekerja rumah tangga, pedagang kaki lima, pengemudi jasa transportasi online, dan lain-lain. ",
+        "bbox": [
+            250,
+            542,
+            854,
+            626
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Ayat (2) Cukup jelas. ",
+        "bbox": [
+            204,
+            633,
+            379,
+            671
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Ayat (3) Yang dimaksud dengan “Perangkat Daerah terkait” adalah Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang, antara lain ketenagakerjaan dan perdagangan. ",
+        "bbox": [
+            214,
+            688,
+            854,
+            785
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Pasal 12 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            811,
+            230,
+            826
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “pemagangan di luar negeri” adalah bagian dari sistem pelatihan kerja yang diselenggarakan di luar negeri. ",
+        "bbox": [
+            205,
+            834,
+            854,
+            895
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            843,
+            982
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "discarded",
+        "text": "-34- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Pasal 13 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            112,
+            232,
+            128
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            205,
+            135,
+            328,
+            151
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 14 Cukup jelas. ",
+        "bbox": [
+            143,
+            180,
+            331,
+            219
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 15 Cukup jelas. ",
+        "bbox": [
+            143,
+            248,
+            331,
+            287
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 16 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            316,
+            232,
+            331
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Ayat (1) Cukup jelas. ",
+        "bbox": [
+            194,
+            339,
+            366,
+            377
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “Perangkat Daerah terkait sesuai tugas dan fungsinya” adalah Perangkat Daerah yang membidangi kesehatan, agama, ketenteraman, ketertiban umum, dan perlindungan Masyarakat, pendidikan, kependudukan dan catatan sipil. ",
+        "bbox": [
+            199,
+            405,
+            854,
+            513
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Ayat (3) Yang dimaksud dengan “organisasi profesi” di bidang kebidanan yaitu Ikatan Bidan Indonesia. ",
+        "bbox": [
+            187,
+            519,
+            854,
+            581
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 17 Cukup jelas. ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            609,
+            331,
+            649
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 18 Cukup jelas. ",
+        "bbox": [
+            143,
+            677,
+            330,
+            717
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 19 Cukup jelas. ",
+        "bbox": [
+            143,
+            745,
+            331,
+            785
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 20 Cukup jelas. ",
+        "bbox": [
+            143,
+            813,
+            331,
+            852
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            156,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "discarded",
+        "text": "-35- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Pasal 21 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            89,
+            230,
+            105
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            207,
+            113,
+            328,
+            128
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Pasal 22 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            158,
+            230,
+            173
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            207,
+            180,
+            328,
+            196
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Pasal 23 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            225,
+            230,
+            241
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Huruf a Cukup jelas.   \nHuruf b Yang dimaksud dengan “rumah aman” adalah tempat tinggal sementara yang disediakan untuk Korban Perdagangan Orang yang bertujuan untuk memberikan perlindungan dari kekerasan, ancaman, dan sejenisnya.   \nHuruf c Cukup jelas.   \nHuruf d Cukup jelas. ",
+        "bbox": [
+            205,
+            247,
+            856,
+            491
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Pasal 24 ",
+        "text_level": 1,
+        "bbox": [
+            150,
+            519,
+            235,
+            534
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Ayat (1) ",
+        "bbox": [
+            205,
+            543,
+            282,
+            558
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “asesmen Korban” adalah pengamatan dan upaya menggali informasi dari orang yang diduga Korban Perdagangan Orang, dalam kerangka pemberian hak atas informasi dan komunikasi bagi Korban, untuk mendapatkan bukti/data tentang proses, cara, dan tujuan, untuk menentukan apakah seseorang adalah benar Korban Perdagangan Orang atau bukan. ",
+        "bbox": [
+            205,
+            552,
+            849,
+            721
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Ayat (2) Cukup jelas. ",
+        "bbox": [
+            205,
+            722,
+            377,
+            762
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Pasal 25 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            790,
+            230,
+            806
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            209,
+            813,
+            331,
+            828
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Pasal 26 ",
+        "bbox": [
+            145,
+            836,
+            230,
+            851
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            205,
+            858,
+            328,
+            874
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "discarded",
+        "text": "-36- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            153,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Pasal 27 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            89,
+            230,
+            105
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            209,
+            112,
+            331,
+            128
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Pasal 28 Cukup jelas. ",
+        "bbox": [
+            143,
+            157,
+            333,
+            197
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Pasal 29 Cukup jelas. ",
+        "bbox": [
+            143,
+            225,
+            333,
+            265
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Pasal 30 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            294,
+            230,
+            309
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Ayat (1) Yang dimaksud dengan “bantuan hukum” adalah tindakan yang terkait dengan Penanganan dan perlindungan Korban Perdagangan Orang di bidang hukum, mulai dari tingkat pemeriksaan di kepolisian, penuntutan di kejaksaan, proses sidang di pengadilan hingga pemberian Restitusi, yang diberikan dalam kerangka pemenuhan hak asasi Korban dan dilakukan secara terintegrasi dengan pelayanan lainnya. ",
+        "bbox": [
+            205,
+            325,
+            849,
+            500
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Ayat (2) Cukup jelas. ",
+        "bbox": [
+            205,
+            497,
+            375,
+            535
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Pasal 31 Cukup jelas. ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            564,
+            330,
+            604
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Pasal 32 Cukup jelas. ",
+        "bbox": [
+            143,
+            635,
+            331,
+            674
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Pasal 33 Cukup jelas. ",
+        "bbox": [
+            143,
+            702,
+            330,
+            742
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Pasal 34 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            772,
+            230,
+            786
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Ayat (1) Cukup jelas. ",
+        "bbox": [
+            204,
+            794,
+            375,
+            833
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            156,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "discarded",
+        "text": "-37- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Ayat (2) ",
+        "bbox": [
+            205,
+            90,
+            282,
+            106
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “turut serta dalam menangani ",
+        "bbox": [
+            248,
+            113,
+            852,
+            128
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Korban Perdagangan Orang” antara lain: ",
+        "bbox": [
+            251,
+            135,
+            650,
+            151
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "a. membantu Pemerintah Daerah melakukan penyuluhan tentang Perdagangan Orang di berbagai sektor;   \nb. memfasilitasi penggunaan bangunan miliknya sebagai rumah aman, Rumah Perlindungan Sosial, dan/atau Pusat Trauma;   \nc. menjadi pendamping dalam proses Rehabilitasi Sosial, Pemulangan, dan Reintegrasi Sosial Korban Perdagangan Orang; dan/atau   \nd. menyediakan lapangan pekerjaan dan/atau pelatihan vokasional bagi Korban Perdagangan Orang. ",
+        "bbox": [
+            261,
+            158,
+            854,
+            378
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Pasal 35 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            406,
+            230,
+            421
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Huruf a Cukup jelas. ",
+        "bbox": [
+            205,
+            429,
+            379,
+            469
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Huruf b ",
+        "bbox": [
+            209,
+            474,
+            287,
+            489
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Yang dimaksud dengan “sumber lain” antara lain dana tanggung jawab sosial lingkungan dan perusahaan. ",
+        "bbox": [
+            251,
+            497,
+            854,
+            536
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Pasal 36 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            564,
+            232,
+            579
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            209,
+            588,
+            331,
+            603
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Pasal 37 ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            632,
+            230,
+            648
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Cukup jelas. ",
+        "bbox": [
+            209,
+            655,
+            331,
+            671
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "discarded",
+        "text": "-38- ",
+        "bbox": [
+            480,
+            38,
+            517,
+            50
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "discarded",
+        "text": "TAMBAHAN LEMBARAN DAERAH DAERAH ISTIMEWA YOGYAKARTA NOMOR 6 ",
+        "bbox": [
+            76,
+            722,
+            857,
+            737
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "discarded",
+        "text": "Dokumen ini ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh Balai Sertikasi Elektronik (BSrE) Badan Siber dan Sandi Negara ",
+        "bbox": [
+            155,
+            956,
+            841,
+            982
+        ],
+        "page_idx": 37
+    }
+]

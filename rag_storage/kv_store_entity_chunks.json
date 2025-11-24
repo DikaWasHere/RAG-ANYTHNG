@@ -1,0 +1,1031 @@
+{
+  "Pemerintah Daerah": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-1c75e1bd2041c7971a39709358644290",
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82",
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12",
+      "chunk-22d21e71679821df574b371f35e7a513"
+    ],
+    "count": 8,
+    "update_time": 1763959370,
+    "_id": "Pemerintah Daerah"
+  },
+  "Pemerintah Pusat": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-22d21e71679821df574b371f35e7a513"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pemerintah Pusat"
+  },
+  "Lembaga Pendidikan": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 3,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Lembaga Pendidikan"
+  },
+  "Fasilitas Kesehatan": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Fasilitas Kesehatan"
+  },
+  "Dunia Usaha Dunia Industri": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Dunia Usaha Dunia Industri"
+  },
+  "Lembaga Swadaya Masyarakat": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Lembaga Swadaya Masyarakat"
+  },
+  "Masyarakat": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82",
+      "chunk-f76c488826196827f9e6c0fdd9694dfd",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 6,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Masyarakat"
+  },
+  "Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-22d21e71679821df574b371f35e7a513",
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82",
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa",
+      "chunk-69dbe95e981792a0654ba2301cb53ea4",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 7,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Perdagangan Orang"
+  },
+  "Peraturan Daerah": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Peraturan Daerah"
+  },
+  "Daerah Istimewa Yogyakarta": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82",
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 3,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Daerah Istimewa Yogyakarta"
+  },
+  "Undang-Undang Dasar 1945": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Undang-Undang Dasar 1945"
+  },
+  "Gubernur Daerah Istimewa Yogyakarta": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Gubernur Daerah Istimewa Yogyakarta"
+  },
+  "Sekretaris Daerah Daerah Istimewa Yogyakarta": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Sekretaris Daerah Daerah Istimewa Yogyakarta"
+  },
+  "Undang-Undang Nomor 21 Tahun 2007": {
+    "chunk_ids": [
+      "chunk-e9b107d471d63f2ebc043f18aed3d7d5",
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Undang-Undang Nomor 21 Tahun 2007"
+  },
+  "Korban Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290",
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a",
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 4,
+    "update_time": 1763959370,
+    "_id": "Korban Perdagangan Orang"
+  },
+  "Asesmen Korban": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290",
+      "chunk-22d21e71679821df574b371f35e7a513",
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 3,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Asesmen Korban"
+  },
+  "Bantuan Hukum": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Bantuan Hukum"
+  },
+  "Rumah Aman": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290",
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Rumah Aman"
+  },
+  "Rumah Perlindungan Sosial": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290",
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-22d21e71679821df574b371f35e7a513"
+    ],
+    "count": 3,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Rumah Perlindungan Sosial"
+  },
+  "Pusat Trauma": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290",
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-22d21e71679821df574b371f35e7a513"
+    ],
+    "count": 3,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pusat Trauma"
+  },
+  "Rehabilitasi Sosial": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290",
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Rehabilitasi Sosial"
+  },
+  "Pelatihan Vokasional": {
+    "chunk_ids": [
+      "chunk-1c75e1bd2041c7971a39709358644290"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pelatihan Vokasional"
+  },
+  "Korban": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-22d21e71679821df574b371f35e7a513",
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa",
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 4,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Korban"
+  },
+  "Pencegahan Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 3,
+    "update_time": 1763959371,
+    "_id": "Pencegahan Perdagangan Orang"
+  },
+  "Penanganan Korban Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Penanganan Korban Perdagangan Orang"
+  },
+  "Pekerja Migran Indonesia": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82",
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 3,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pekerja Migran Indonesia"
+  },
+  "Anak": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Anak"
+  },
+  "Rencana Aksi Daerah": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Rencana Aksi Daerah"
+  },
+  "Pusat Pelayanan Terpadu": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pusat Pelayanan Terpadu"
+  },
+  "Rehabilitasi Kesehatan": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-22d21e71679821df574b371f35e7a513",
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 3,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Rehabilitasi Kesehatan"
+  },
+  "Pemulangan": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pemulangan"
+  },
+  "Reintegrasi Sosial": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Reintegrasi Sosial"
+  },
+  "Restitusi": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Restitusi"
+  },
+  "Daerah": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Daerah"
+  },
+  "Gubernur": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Gubernur"
+  },
+  "Perangkat Daerah": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-22d21e71679821df574b371f35e7a513",
+      "chunk-f76c488826196827f9e6c0fdd9694dfd",
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 6,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Perangkat Daerah"
+  },
+  "Pemerintah Kabupaten/Kota": {
+    "chunk_ids": [
+      "chunk-9d9724d1ccfbfe2c28ad838d9218892d",
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pemerintah Kabupaten/Kota"
+  },
+  "Industri Pariwisata": {
+    "chunk_ids": [
+      "chunk-22d21e71679821df574b371f35e7a513"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Industri Pariwisata"
+  },
+  "PPT Kabupaten/Kota": {
+    "chunk_ids": [
+      "chunk-22d21e71679821df574b371f35e7a513"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "PPT Kabupaten/Kota"
+  },
+  "PPT Provinsi": {
+    "chunk_ids": [
+      "chunk-22d21e71679821df574b371f35e7a513"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "PPT Provinsi"
+  },
+  "Kota": {
+    "chunk_ids": [
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Kota"
+  },
+  "Program Pemagangan": {
+    "chunk_ids": [
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Program Pemagangan"
+  },
+  "Trafficker": {
+    "chunk_ids": [
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Trafficker"
+  },
+  "Pekerja Migran": {
+    "chunk_ids": [
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pekerja Migran"
+  },
+  "Pusat Pendidikan": {
+    "chunk_ids": [
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pusat Pendidikan"
+  },
+  "Kekuatan Ekonomi Wisata": {
+    "chunk_ids": [
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Kekuatan Ekonomi Wisata"
+  },
+  "Prostitusi": {
+    "chunk_ids": [
+      "chunk-a8fafb2333fd9a559d20c422f5e18d82",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Prostitusi"
+  },
+  "Pencegahan Dan Penanganan Korban Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pencegahan Dan Penanganan Korban Perdagangan Orang"
+  },
+  "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945": {
+    "chunk_ids": [
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
+  },
+  "Dewan Perwakilan Rakyat Daerah": {
+    "chunk_ids": [
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Dewan Perwakilan Rakyat Daerah"
+  },
+  "Undang-Undang Nomor 3 Tahun 1950": {
+    "chunk_ids": [
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Undang-Undang Nomor 3 Tahun 1950"
+  },
+  "Peraturan Pemerintah Nomor 31 Tahun 1950": {
+    "chunk_ids": [
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Peraturan Pemerintah Nomor 31 Tahun 1950"
+  },
+  "Human Trafficking": {
+    "chunk_ids": [
+      "chunk-0d3a66fd1e5c620bda5f883fde5cf8fa"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Human Trafficking"
+  },
+  "Pemberdayaan Masyarakat": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd",
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pemberdayaan Masyarakat"
+  },
+  "Pendidikan Dan Pelatihan Kerja": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pendidikan Dan Pelatihan Kerja"
+  },
+  "Sistem Informasi Pasar Kerja": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Sistem Informasi Pasar Kerja"
+  },
+  "Lembaga Penempatan Pekerja Migran Indonesia": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Lembaga Penempatan Pekerja Migran Indonesia"
+  },
+  "Menteri": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Menteri"
+  },
+  "Pemerintah": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pemerintah"
+  },
+  "Perusahaan Penempatan Pekerja Migran Indonesia": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Perusahaan Penempatan Pekerja Migran Indonesia"
+  },
+  "Lembaga Pelatihan Kerja Swasta": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Lembaga Pelatihan Kerja Swasta"
+  },
+  "Perusahaan": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Perusahaan"
+  },
+  "Instansi Pemerintah": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Instansi Pemerintah"
+  },
+  "Lembaga Pendidikan Formal": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Lembaga Pendidikan Formal"
+  },
+  "Pasal 8": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pasal 8"
+  },
+  "Pasal 5": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pasal 5"
+  },
+  "Pasal 10": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pasal 10"
+  },
+  "Pasal 11": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pasal 11"
+  },
+  "Pasal 12": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd",
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 2,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pasal 12"
+  },
+  "Pasal 13": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pasal 13"
+  },
+  "Layanan Psikososial": {
+    "chunk_ids": [
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Layanan Psikososial"
+  },
+  "Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Rencana Aksi Daerah Pencegahan dan Penanganan Korban Perdagangan Orang"
+  },
+  "Pendidikan Formal dan Nonformal": {
+    "chunk_ids": [
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pendidikan Formal dan Nonformal"
+  },
+  "Pendampingan": {
+    "chunk_ids": [
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pendampingan"
+  },
+  "Pemberdayaan": {
+    "chunk_ids": [
+      "chunk-7166cdd88fa73ed0af0d14ea1464f78a"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pemberdayaan"
+  },
+  "Pencegahan dan Penanganan Korban": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Pencegahan dan Penanganan Korban"
+  },
+  "Asas Keadilan": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Asas Keadilan"
+  },
+  "Asas Inklusif": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Asas Inklusif"
+  },
+  "Asas Non Diskriminatif": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Asas Non Diskriminatif"
+  },
+  "Asas Kepastian Hukum": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959369,
+    "update_time": 1763959369,
+    "_id": "Asas Kepastian Hukum"
+  },
+  "Perangkat Daerah Terkait": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Perangkat Daerah Terkait"
+  },
+  "Pelatihan Kerja": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pelatihan Kerja"
+  },
+  "Informasi Pasar Kerja": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Informasi Pasar Kerja"
+  },
+  "Pekerja Non Formal": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pekerja Non Formal"
+  },
+  "Pemagangan di Luar Negeri": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pemagangan di Luar Negeri"
+  },
+  "Pendidikan dan Perlindungan": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pendidikan dan Perlindungan"
+  },
+  "Ketentraman dan Ketertiban Umum": {
+    "chunk_ids": [
+      "chunk-69dbe95e981792a0654ba2301cb53ea4"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Ketentraman dan Ketertiban Umum"
+  },
+  "Gugus Tugas Perdagangan Orang Daerah": {
+    "chunk_ids": [
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Gugus Tugas Perdagangan Orang Daerah"
+  },
+  "Organisasi Kemasyarakatan": {
+    "chunk_ids": [
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Organisasi Kemasyarakatan"
+  },
+  "Pemetaan Kerentanan Terjadinya Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pemetaan Kerentanan Terjadinya Perdagangan Orang"
+  },
+  "Tipologi Korban dan/atau Pelaku Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Tipologi Korban dan/atau Pelaku Perdagangan Orang"
+  },
+  "Motif Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Motif Perdagangan Orang"
+  },
+  "Wilayah Rentan Korban Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Wilayah Rentan Korban Perdagangan Orang"
+  },
+  "Wilayah Asal Korban Perdagangan Orang": {
+    "chunk_ids": [
+      "chunk-edd54d43bd670d7f3db73a95787b5f1a"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Wilayah Asal Korban Perdagangan Orang"
+  },
+  "Pasal 14": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pasal 14"
+  },
+  "Pasal 15": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pasal 15"
+  },
+  "Pasal 16": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pasal 16"
+  },
+  "Pasal 17": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pasal 17"
+  },
+  "Pasal 18": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pasal 18"
+  },
+  "Pasal 19": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pasal 19"
+  },
+  "Prosedur Pengangkatan Anak": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Prosedur Pengangkatan Anak"
+  },
+  "Perdagangan Anak": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Perdagangan Anak"
+  },
+  "Transplantasi Organ Tubuh": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Transplantasi Organ Tubuh"
+  },
+  "Pengendalian Proses Penempatan Pekerja Migran Indonesia": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pengendalian Proses Penempatan Pekerja Migran Indonesia"
+  },
+  "Pelindungan Pekerja Formal dan Non Formal": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pelindungan Pekerja Formal dan Non Formal"
+  },
+  "Pemagangan Di Luar Negeri": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pemagangan Di Luar Negeri"
+  },
+  "Pengendalian Pemagangan": {
+    "chunk_ids": [
+      "chunk-f76c488826196827f9e6c0fdd9694dfd"
+    ],
+    "count": 1,
+    "create_time": 1763959370,
+    "update_time": 1763959370,
+    "_id": "Pengendalian Pemagangan"
+  },
+  "Organ Tubuh Manusia": {
+    "chunk_ids": [
+      "chunk-5e3187cc94565b2eb58adbc9c0cdbe12"
+    ],
+    "count": 1,
+    "create_time": 1763959371,
+    "update_time": 1763959371,
+    "_id": "Organ Tubuh Manusia"
+  }
+}
