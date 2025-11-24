@@ -1,0 +1,36 @@
+# Core dependencies
+raganything>=1.2.8
+lightrag-hku>=1.4.9
+mineru[core]>=2.6.4
+
+# LLM & Embeddings
+openai>=2.8.1
+sentence-transformers>=5.1.2
+tiktoken>=0.12.0
+
+# Vector & ML
+torch>=2.9.1
+transformers>=4.57.1
+numpy>=2.2.6
+scikit-learn>=1.7.2
+
+# Data processing
+pandas>=2.3.3
+Pillow>=11.3.0
+opencv-python>=4.12.0
+
+# PDF parsing
+pypdf>=6.4.0
+pdfminer.six==20250506
+
+# Utilities
+python-dotenv>=1.2.1
+tqdm>=4.67.1
+aiofiles>=24.1.0
+httpx>=0.28.1
+requests>=2.32.5
+
+# Optional but recommended
+fastapi>=0.121.3
+uvicorn>=0.38.0
+gradio>=5.50.0
