@@ -1,5 +1,7 @@
 import os
 import asyncio
+import warnings
+import sys
 from dotenv import load_dotenv
 
 from raganything import RAGAnything, RAGAnythingConfig
@@ -75,7 +77,7 @@ async def main():
                                     "url": f"data:image/jpeg;base64,{image_data}"
                                 },
                             },
-                        ],
+                        ],  
                     }
                     if image_data
                     else {"role": "user", "content": prompt},
@@ -114,7 +116,7 @@ async def main():
     # 6. Skip preprocessing jika sudah pernah diproses
     # Uncomment jika perlu preprocessing ulang atau dokumen baru
     await rag.process_document_complete(
-        file_path="data/jdih.pdf",
+        file_path="data/castle.png",
         output_dir=os.getenv("OUTPUT_DIR", "./output"),
         parse_method=os.getenv("PARSE_METHOD", "auto")
     )
@@ -131,7 +133,7 @@ async def main():
             
             if question.lower() in ['exit', 'quit', 'keluar', 'q']:
                 print("\n👋 Terima kasih! Sampai jumpa!")
-                break
+                return  # Clean exit tanpa warning
                 
             if not question.strip():
                 continue
@@ -143,9 +145,15 @@ async def main():
             
         except KeyboardInterrupt:
             print("\n\n👋 Program dihentikan. Sampai jumpa!")
-            break
+            return  # Exit cleanly
         except Exception as e:
             print(f"\n❌ Error: {e}\n")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        sys.exit(0)  # Clean exit
+    except Exception as e:
+        print(f"\n❌ Error: {e}")
+        sys.exit(1)

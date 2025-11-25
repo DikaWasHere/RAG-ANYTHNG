@@ -5305,5 +5305,33 @@
     "create_time": 1763958003,
     "update_time": 1763958003,
     "_id": "13333fcf40e2310eb71ea3793bfb579f"
+  },
+  "c8475cf31b92faa0c8f260c24816bb62": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "D:\\semester 7\\magang belajar\\rag_anything\\output\\castle\\ocr\\images\\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          0,
+          0,
+          989,
+          1000
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-b1482e6dfa28097a3da0882d22af73a2",
+    "mtime": 1756038946.80603,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1764032324.1598413,
+    "cache_version": "1.0",
+    "create_time": 1764032324,
+    "update_time": 1764032324,
+    "_id": "c8475cf31b92faa0c8f260c24816bb62"
   }
 }

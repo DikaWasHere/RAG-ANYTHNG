@@ -246,5 +246,16 @@
     "count": 241,
     "update_time": 1763965054,
     "_id": "doc-0ef919b454523318eafc6c800886ed08"
+  },
+  "doc-b1482e6dfa28097a3da0882d22af73a2": {
+    "entity_names": [
+      "Image Content Analysis",
+      "D:\\semester 7\\magang belajar\\rag_anything\\output\\castle\\ocr\\images\\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg",
+      "Bounding Box",
+      "Visual Analysis"
+    ],
+    "count": 4,
+    "update_time": 1764059578,
+    "_id": "doc-b1482e6dfa28097a3da0882d22af73a2"
   }
 }

@@ -1592,5 +1592,23 @@
     "create_time": 1763964752,
     "update_time": 1763965028,
     "_id": "chunk-647c13dfea2a97abbde9781a3e429b14"
+  },
+  "chunk-f9fb1c038f67e208c6b1bb537494eb8c": {
+    "content": "\nImage Content Analysis:\nImage Path: D:\\semester 7\\magang belajar\\rag_anything\\output\\castle\\ocr\\images\\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: {'type': 'image', 'img_path': 'D:\\\\semester 7\\\\magang belajar\\\\rag_anything\\\\output\\\\castle\\\\ocr\\\\images\\\\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg', 'image_caption': [], 'image_footnote': [], 'bbox': [0, 0, 989, 1000], 'page_idx': 0}",
+    "tokens": 181,
+    "full_doc_id": "doc-b1482e6dfa28097a3da0882d22af73a2",
+    "chunk_order_index": 0,
+    "file_path": "castle.png",
+    "llm_cache_list": [
+      "default:extract:d4c9d5f985037523433dfef63312a194",
+      "default:extract:9e98438519a11492b45eba1444663f14"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_286c1be51d306122a4033a1547efff0e",
+    "original_type": "image",
+    "page_idx": 0,
+    "update_time": 1764059577,
+    "_id": "chunk-f9fb1c038f67e208c6b1bb537494eb8c",
+    "create_time": 0
   }
 }

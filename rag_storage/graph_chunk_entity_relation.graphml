@@ -3617,6 +3617,58 @@ Through its comprehensive approach, Badan Siber dan Sandi Negara contributes to 
       <data key="d5">1763965054</data>
       <data key="d6" />
     </node>
+    <node id="image_286c1be51d306122a4033a1547efff0e">
+      <data key="d0">image_286c1be51d306122a4033a1547efff0e</data>
+      <data key="d1">image</data>
+      <data key="d2">Image content: {'type': 'image', 'img_path': 'D:\\semester 7\\magang belajar\\rag_anything\\output\\castle\\ocr\\im</data>
+      <data key="d3">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d4">castle.png</data>
+      <data key="d5">1764059577</data>
+    </node>
+    <node id="Image Content Analysis">
+      <data key="d0">Image Content Analysis</data>
+      <data key="d1">content</data>
+      <data key="d2">Image Content Analysis refers to the process of assessing and interpreting the content of an image, which encompasses both its path and various visual characteristics. This comprehensive activity is crucial in fields such as computer vision, data analysis, and image processing, as it enables machines and analysts to derive meaningful insights from visual data.
+
+The process involves a detailed examination of an image’s attributes, which can include color, shapes, facial recognition, object detection, and scene understanding. By evaluating these elements, practitioners can gain a deeper understanding of the information conveyed within an image, aiding tasks such as categorization, search optimization, and automated analysis. 
+
+Image Content Analysis plays a significant role in numerous applications, ranging from enhancing user experiences in digital media to improving security systems through surveillance. Its importance continues to grow as technology advances and the utilization of visual information expands across various industries.&lt;SEP&gt;Image Content Analysis refers to the process of assessing and interpreting the content of an image, including its path and visual characteristics.</data>
+      <data key="d3">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d4">castle.png</data>
+      <data key="d5">1764059577</data>
+      <data key="d6" />
+    </node>
+    <node id="D:\semester 7\magang belajar\rag_anything\output\castle\ocr\images\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg">
+      <data key="d0">D:\semester 7\magang belajar\rag_anything\output\castle\ocr\images\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The entity referred to by the file path "D:\semester 7\magang belajar\rag_anything\output\castle\ocr\images\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg" represents an image that is under content analysis. This file path indicates that the image's contents are being examined or evaluated for various possible insights, which could encompass aspects such as visual characteristics, context, or relevance to specific topics.
+
+Across multiple descriptions, it is consistently noted that this image is subject to analysis, implying that a structured process is in place to interpret or utilize the information contained within the image. However, no additional specific details about the image itself, its nature, or the methods of analysis are provided in the descriptions. The recurring nature of this statement emphasizes the importance of the image and its analysis in the relevant context.&lt;SEP&gt;The file path points to an image that is subject to content analysis.</data>
+      <data key="d3">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d4">castle.png</data>
+      <data key="d5">1764059577</data>
+      <data key="d6" />
+    </node>
+    <node id="Visual Analysis">
+      <data key="d0">Visual Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Visual Analysis refers to the method of examining various attributes of images, specifically focusing on elements such as path and bounding box dimensions. This analysis is crucial in fields such as computer vision and image processing, where understanding these attributes can aid in tasks like object detection, image segmentation, and overall image interpretation. By carefully scrutinizing these features, researchers and practitioners can gain insights into the spatial organization within an image and effectively utilize this information in practical applications. 
+
+The emphasis on path characteristics highlights the importance of analyzing how objects are represented and tracked in visual data, while bounding box dimensions provide a quantitative means of evaluating the extents of these objects. Overall, Visual Analysis constitutes a foundational aspect of image analysis, offering essential tools for improving automated interpretation and manipulation of visual information.&lt;SEP&gt;Visual Analysis describes the examination of image attributes including path and bounding box dimensions.</data>
+      <data key="d3">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d4">castle.png</data>
+      <data key="d5">1764059577</data>
+      <data key="d6" />
+    </node>
+    <node id="Bounding Box">
+      <data key="d0">Bounding Box</data>
+      <data key="d1">concept</data>
+      <data key="d2">The Bounding Box refers to a specific set of coordinates that delineate the portion of an image being analyzed. This set is consistently represented as [0, 0, 989, 1000]. Essentially, the Bounding Box provides a rectangular area within the image, allowing for targeted processing or analysis of that specific section. The coordinates indicate the starting point at the top-left corner of the rectangle, with (0, 0) as the origin, extending to the bottom-right corner at (989, 1000). This standard representation is crucial for various applications in fields such as computer vision, image processing, and machine learning, where precise area definition is necessary for tasks like object detection and tracking.&lt;SEP&gt;The Bounding Box refers to the coordinates that define the section of the image being analyzed, represented as [0, 0, 989, 1000].</data>
+      <data key="d3">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d4">castle.png</data>
+      <data key="d5">1764059577</data>
+      <data key="d6" />
+    </node>
     <edge source="Pemerintah Daerah" target="Pemerintah Pusat">
       <data key="d7">1.0</data>
       <data key="d8">Pemerintah Daerah collaborates with Pemerintah Pusat to address human trafficking issues.</data>
@@ -11489,6 +11541,87 @@ Overall, Balai Sertikasi Elektronik (BSrE) acts as a vital institution under the
       <data key="d10">chunk-e1586da62c44fba22dd861cdc2ba26e3</data>
       <data key="d11">jdih.pdf</data>
       <data key="d12">1763965054</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_286c1be51d306122a4033a1547efff0e" target="D:\semester 7\magang belajar\rag_anything\output\castle\ocr\images\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg">
+      <data key="d7">90.0</data>
+      <data key="d8">The relation named "D:\\semester 7\\magang belajar\\rag_anything\\output\\castle\\ocr\\images\\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg" is consistently described as belonging to "image_286c1be51d306122a4033a1547efff0e." 
+
+Each of the provided descriptions reiterates that the specified entity is associated with the image identified by the code "image_286c1be51d306122a4033a1547efff0e," confirming a clear and repeated relationship. This suggests that the relationship is stable and well-defined, without any conflicting information present in the descriptions. 
+
+Overall, this indicates that "D:\\semester 7\\magang belajar\\rag_anything\\output\\castle\\ocr\\images\\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg" is a recognized entity that is unequivocally linked to "image_286c1be51d306122a4033a1547efff0e."&lt;SEP&gt;Entity D:\semester 7\magang belajar\rag_anything\output\castle\ocr\images\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg belongs to image_286c1be51d306122a4033a1547efff0e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d11">data/castle.png</data>
+      <data key="d12">1764059578</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_286c1be51d306122a4033a1547efff0e" target="Visual Analysis">
+      <data key="d7">90.0</data>
+      <data key="d8">The relation known as Visual Analysis is associated with the identifier image_286c1be51d306122a4033a1547efff0e. This relationship is consistent across multiple sources, with each description affirming that Visual Analysis is linked to this specific image. 
+
+Visual Analysis encompasses the examination and interpretation of visual data, and its connection to image_286c1be51d306122a4033a1547efff0e indicates that it is likely involved in the analysis or processing of the data or features present within that image. The repetitive assertion across various descriptions reinforces the credibility of this association, establishing a clear and stable relationship between Visual Analysis and the specified image identifier. 
+
+Overall, Visual Analysis stands firmly linked to image_286c1be51d306122a4033a1547efff0e, highlighting the potential significance of the image in its functional context within visual data interpretation.&lt;SEP&gt;Entity Visual Analysis belongs to image_286c1be51d306122a4033a1547efff0e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d11">data/castle.png</data>
+      <data key="d12">1764059578</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_286c1be51d306122a4033a1547efff0e" target="Bounding Box">
+      <data key="d7">90.0</data>
+      <data key="d8">The relation known as Bounding Box is associated with the entity designated as image_286c1be51d306122a4033a1547efff0e. This relation is consistently mentioned across multiple descriptions, which confirm that the Bounding Box is specifically tied to this particular image entity.
+
+Furthermore, the repeated confirmations suggest a strong, unambiguous connection between the Bounding Box and image_286c1be51d306122a4033a1547efff0e, indicating that any practical applications or discussions involving the Bounding Box will invariably relate to this image. This clarity reinforces the understanding that the Bounding Box serves as a defining spatial marker or reference for image_286c1be51d306122a4033a1547efff0e.&lt;SEP&gt;Entity Bounding Box belongs to image_286c1be51d306122a4033a1547efff0e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d11">data/castle.png</data>
+      <data key="d12">1764059578</data>
+      <data key="d13" />
+    </edge>
+    <edge source="image_286c1be51d306122a4033a1547efff0e" target="Image Content Analysis">
+      <data key="d7">90.0</data>
+      <data key="d8">The relation known as Image Content Analysis is associated with the identifier image_286c1be51d306122a4033a1547efff0e. This relationship is consistently affirmed across multiple descriptions, indicating that Image Content Analysis is fundamentally linked to this specific image identifier. 
+
+All provided descriptions emphasize the connection of Image Content Analysis to image_286c1be51d306122a4033a1547efff0e, without introducing any contradictions or additional attributes. Therefore, the comprehensive understanding of this relation is that it uniformly represents the analysis of the content within the specified image, denoting a singular focus on the image associated with the identifier provided.&lt;SEP&gt;Entity Image Content Analysis belongs to image_286c1be51d306122a4033a1547efff0e</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d11">data/castle.png</data>
+      <data key="d12">1764059578</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="D:\semester 7\magang belajar\rag_anything\output\castle\ocr\images\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg">
+      <data key="d7">9.0</data>
+      <data key="d8">Image Content Analysis refers to the assessment of a specific image located at the defined file path, which is indicated as D:\semester 7\magang belajar\rag_anything\output\castle\ocr\images\fe221b6769ea43cc087c715690ff26198c9f2b694213ce301dcf8f7146d103cb.jpg. This analysis involves evaluating the content of the given image, likely for purposes such as understanding, processing, or extracting information contained within it.
+
+Each entry in the description emphasizes the relationship between Image Content Analysis and the specific image file, reiterating that the analysis pertains to this particular image's exploration and evaluation. The consistent references underline that the core task is to conduct a thorough examination based on the image located at the stated file path.&lt;SEP&gt;Image Content Analysis references a specific image located at the defined file path for assessment.</data>
+      <data key="d9">content reference,image analysis</data>
+      <data key="d10">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d11">castle.png</data>
+      <data key="d12">1764059577</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Image Content Analysis" target="Visual Analysis">
+      <data key="d7">9.0</data>
+      <data key="d8">Image Content Analysis is closely related to the concept of Visual Analysis, which serves as a fundamental method for interpreting image attributes. Visual Analysis involves examining various characteristics of images to derive insights and understand their content. This method is consistently highlighted as integral to the broader field of Image Content Analysis, emphasizing its role in deciphering the visual elements present in images.
+
+Despite the repetitive nature of the descriptions provided, they collectively reinforce the crucial function of Visual Analysis within Image Content Analysis, indicating that this method is pivotal for extracting meaningful information from visual media. The interpretation of image attributes through Visual Analysis is essential for a comprehensive understanding of the images being analyzed.&lt;SEP&gt;Visual Analysis is a method used within Image Content Analysis to interpret image attributes.</data>
+      <data key="d9">analysis type,methodological approach</data>
+      <data key="d10">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d11">castle.png</data>
+      <data key="d12">1764059578</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Visual Analysis" target="Bounding Box">
+      <data key="d7">9.0</data>
+      <data key="d8">The relation name "Bounding Box" within the context of "Visual Analysis" refers to a critical concept in the process of analyzing images. Visual Analysis necessitates the precise definition of a Bounding Box, which serves to delineate the specific portion of the image that is subject to examination. This bounding box acts as a frame, highlighting the area of interest for further analysis, thereby aiding in various tasks such as object detection, image segmentation, and spatial analysis.
+
+In summary, the Bounding Box is an essential tool used in Visual Analysis to identify and isolate relevant sections of an image for more detailed scrutiny. Its role is fundamental in ensuring that the analysis is focused and effective, optimizing the output of computer vision algorithms and other analytical methods.&lt;SEP&gt;Visual Analysis involves defining the Bounding Box to specify the portion of the image being analyzed.</data>
+      <data key="d9">image measurement,spatial dimensions</data>
+      <data key="d10">chunk-f9fb1c038f67e208c6b1bb537494eb8c</data>
+      <data key="d11">castle.png</data>
+      <data key="d12">1764059577</data>
       <data key="d13" />
     </edge>
   </graph>
