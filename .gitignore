@@ -1,0 +1,50 @@
+# ========================
+# PYTHON FILES & ENV
+# ========================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+*.log
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# Environment Variables
+.env
+.env.*
+
+# ========================
+# FASTAPI / UPLOADS / TEMP
+# ========================
+uploads/
+rag_storage/
+# ========================
+# FRONTEND BUILD / CACHE
+# ========================
+frontend/node_modules/
+frontend/.cache/
+frontend/dist/
+frontend/.vite/
+
+# ========================
+# SYSTEM / IDE FILES
+# ========================
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ========================
+# OS & LOG FILES
+# ========================
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Docker
+**/.docker
+**/docker-compose.yml

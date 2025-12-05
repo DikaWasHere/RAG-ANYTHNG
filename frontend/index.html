@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ChatPDF - AI PDF Reader</title>
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/header.css" />
+  <link rel="stylesheet" href="css/sidebar.css" />
+  <link rel="stylesheet" href="css/welcome.css" />
+  <link rel="stylesheet" href="css/chat.css" />
+  <link rel="stylesheet" href="css/pdf-viewer.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+</head>
+<body>
+  <div class="app-container">
+    <!-- Top Header -->
+    <header class="top-header">
+      <div class="header-left">
+        <button class="hamburger-btn" id="hamburgerBtn">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="logo-header">
+          <div class="logo-icon-header">📄</div>
+          <span class="logo-text-header">ChatPDF</span>
+        </div>
+        <button class="header-btn" id="newChatBtn">
+          <span>📄</span> Upload PDF
+        </button>
+      </div>
+      <div class="header-right">
+        <button class="upgrade-btn">✨ Plus upgrade</button>
+        <div class="user-avatar">AR</div>
+      </div>
+    </header>
+
+    <div class="main-container">
+      <!-- Sidebar -->
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-section">
+          <div class="sidebar-header">
+            <span>💬 Chats</span>
+            <span class="view-all">All ›</span>
+          </div>
+          <div class="chat-list" id="chatList">
+            <!-- Chat items akan muncul di sini -->
+          </div>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-header">
+            <span>📁 Folders</span>
+          </div>
+          <button class="sidebar-btn">+ New folder</button>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="sidebar-header">
+            <span>🔧 Tools</span>
+          </div>
+          <button class="sidebar-btn">✍️ AI Writer</button>
+          <button class="sidebar-btn">🔍 AI Detector</button>
+          <button class="sidebar-btn">📺 YouTube Chat</button>
+          <button class="sidebar-btn">🔬 Research</button>
+          <button class="sidebar-btn">💻 Windows app</button>
+          <button class="sidebar-btn">📱 Mobile app</button>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <main class="main-content">
+        <!-- Welcome Screen -->
+        <div class="welcome-screen" id="welcomeScreen">
+          <div class="welcome-header">
+            <div class="badges">
+              <div class="badge">
+                <span>🏆 #1 PDF Chat AI</span>
+                <strong>Original</strong>
+              </div>
+              <div class="badge">
+                <span>💬 Q's answered every day</span>
+                <strong>1,000,000+</strong>
+              </div>
+              <div class="badge">
+                <span>⭐ Gen AI apps of 2024</span>
+                <strong>Top 50</strong>
+              </div>
+            </div>
+          </div>
+
+          <h1 class="welcome-title">
+            Chat with any<span class="highlight">PDF</span>
+          </h1>
+          
+          <p class="welcome-subtitle">
+            Join millions of <span class="text-link">students, researchers and professionals</span> to instantly<br>
+            answer questions and understand research with AI
+          </p>
+
+          <div class="upload-area" id="uploadArea">
+            <div class="upload-box">
+              <div class="upload-icon-large">⬆️</div>
+              <p class="upload-text">Click to upload, or drag PDF here</p>
+              <button class="upload-btn-large" onclick="document.getElementById('pdfInput').click()">
+                <span>➕</span> Upload PDF
+                <span class="dropdown-icon">▼</span>
+              </button>
+              <input type="file" id="pdfInput" accept=".pdf" style="display: none;" />
+            </div>
+            <div class="upload-hint">
+              <span class="arrow-hint">DRAG & DROP YOUR<br>PDF FILE HERE</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chat Interface with PDF Viewer -->
+        <div class="chat-interface" id="chatInterface">
+          <div class="chat-layout">
+            <!-- PDF Viewer Column -->
+            <div class="pdf-viewer-column" id="pdfViewerColumn">
+              <div class="pdf-viewer-header">
+                <button class="pdf-nav-btn" id="prevPage">‹</button>
+                <button class="pdf-nav-btn" id="nextPage">›</button>
+                <button class="pdf-zoom-btn" id="zoomOut">-</button>
+                <button class="pdf-zoom-btn" id="zoomIn">+</button>
+                <input type="number" id="pageInput" value="1" min="1" />
+                <span id="pageInfo">of 1</span>
+                <button class="pdf-search-btn">🔍</button>
+              </div>
+              <div class="pdf-canvas-container" id="pdfCanvasContainer">
+                <canvas id="pdfCanvas"></canvas>
+                <div class="pdf-loading" id="pdfLoading">
+                  <div class="loading-spinner"></div>
+                  <p>Loading PDF...</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Resizer -->
+            <div class="resizer" id="resizer"></div>
+
+            <!-- Chat Column -->
+            <div class="chat-column" id="chatColumn">
+              <div class="chat-header">
+                <div class="chat-header-info">
+                  <h2 id="chatTitle">📄 Document.pdf</h2>
+                  <button class="header-options">⋯</button>
+                </div>
+              </div>
+
+              <div class="chat-messages" id="chatMessages">
+                <!-- Messages akan muncul di sini -->
+              </div>
+
+              <!-- Processing Indicator -->
+              <div class="processing-indicator" id="processingIndicator">
+                <div class="process-steps">
+                  <div class="process-step" id="step1">
+                    <div class="step-icon">📄</div>
+                    <div class="step-text">Reading PDF...</div>
+                    <div class="step-progress"></div>
+                  </div>
+                  <div class="process-step" id="step2">
+                    <div class="step-icon">🧠</div>
+                    <div class="step-text">Analyzing content...</div>
+                    <div class="step-progress"></div>
+                  </div>
+                  <div class="process-step" id="step3">
+                    <div class="step-icon">💾</div>
+                    <div class="step-text">Creating embeddings...</div>
+                    <div class="step-progress"></div>
+                  </div>
+                  <div class="process-step" id="step4">
+                    <div class="step-icon">✅</div>
+                    <div class="step-text">Ready to chat!</div>
+                    <div class="step-progress"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="chat-input-area">
+                <div class="input-container">
+                  <textarea 
+                    id="chatInput" 
+                    placeholder="Ask any question..."
+                    rows="1"
+                  ></textarea>
+                  <button id="sendBtn" class="send-btn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                      <path d="M7 11L12 6L17 11M12 18V7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </button>
+                </div>
+                <div class="input-actions">
+                  <button class="action-btn" id="fastBtn">⚡ Fast</button>
+                  <button class="action-btn active" id="qualityBtn">🎯 High quality</button>
+                  <button class="action-btn" id="plusBtn">+</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/pdf-handler.js"></script>
+  <script src="js/chat-handler.js"></script>
+  <script src="js/ui-handler.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

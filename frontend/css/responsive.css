@@ -1,0 +1,89 @@
+@media (max-width: 1024px) {
+  .sidebar {
+    position: fixed;
+    left: -280px;
+    top: 60px;
+    height: calc(100vh - 60px);
+    z-index: 50;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .sidebar.active {
+    transform: translateX(280px);
+  }
+  
+  .hamburger-btn {
+    display: flex;
+  }
+  
+  .welcome-title {
+    font-size: 48px;
+  }
+  
+  .upload-area {
+    flex-direction: column;
+  }
+  
+  .upload-box {
+    width: 100%;
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-btn span {
+    display: none;
+  }
+  
+  .upgrade-btn {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+  
+  .logo-text-header {
+    display: none;
+  }
+  
+  .pdf-viewer-column {
+    display: none;
+  }
+  
+  .resizer {
+    display: none;
+  }
+  
+  .chat-column {
+    width: 100%;
+  }
+  
+  .badges {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .welcome-title {
+    font-size: 36px;
+  }
+  
+  .welcome-subtitle {
+    font-size: 16px;
+  }
+  
+  .bot-message, .user-message {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  .chat-messages {
+    padding: 16px;
+  }
+  
+  .chat-input-area {
+    padding: 12px;
+  }
+  
+  .input-actions {
+    flex-wrap: wrap;
+  }
+}

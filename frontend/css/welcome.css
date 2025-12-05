@@ -1,0 +1,141 @@
+.welcome-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 40px;
+  text-align: center;
+}
+
+.welcome-header {
+  margin-bottom: 40px;
+}
+
+.badges {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.badge {
+  text-align: center;
+}
+
+.badge span {
+  font-size: 12px;
+  color: #6b7280;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.badge strong {
+  font-size: 16px;
+  color: #1f2937;
+}
+
+.welcome-title {
+  font-size: 64px;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 20px;
+}
+
+.welcome-title .highlight {
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.welcome-subtitle {
+  font-size: 18px;
+  color: #6b7280;
+  margin-bottom: 60px;
+  line-height: 1.6;
+}
+
+.text-link {
+  color: #ea580c;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.upload-area {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.upload-box {
+  width: 700px;
+  padding: 80px 40px;
+  border: 2px dashed #d1d5db;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #faf5ff 0%, #ffffff 100%);
+  text-align: center;
+  transition: all 0.3s;
+}
+
+.upload-box:hover {
+  border-color: #7c3aed;
+  background: #faf5ff;
+}
+
+.upload-icon-large {
+  font-size: 64px;
+  margin-bottom: 20px;
+}
+
+.upload-text {
+  font-size: 18px;
+  color: #374151;
+  margin-bottom: 24px;
+}
+
+.upload-btn-large {
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+  color: white;
+  border: none;
+  padding: 14px 32px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: transform 0.2s;
+}
+
+.upload-btn-large:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(124, 58, 237, 0.3);
+}
+
+.dropdown-icon {
+  font-size: 12px;
+}
+
+.upload-hint {
+  position: relative;
+}
+
+.arrow-hint {
+  font-size: 14px;
+  color: #7c3aed;
+  font-weight: 600;
+  line-height: 1.6;
+  position: relative;
+}
+
+.arrow-hint::before {
+  content: '↗';
+  position: absolute;
+  top: -30px;
+  right: -40px;
+  font-size: 32px;
+  color: #7c3aed;
+}

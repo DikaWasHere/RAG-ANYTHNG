@@ -1,0 +1,10 @@
+raganything[all] 
+fastapi 
+uvicorn 
+python-dotenv
+pydantic
+redis
+sentence-transformers
+transformers
+qdrant-client 
+psycopg2-binary
