@@ -2,6 +2,8 @@ install requirements:
 	pip install -r requirements.txt
 docker-compose up -d:
 	docker-compose up -d
+postgres-initdb:
+	python api.services.init_db
 uvicorn api.main:app --reload:
 	uvicorn api.main:app --reload	
 
