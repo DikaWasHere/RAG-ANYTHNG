@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>ChatPDF - AI PDF Reader</title>
+  <title>JDIHChatPDF</title>
+  <link rel="shortcut icon" href="img/logo2.png" type="image/x-icon" />
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="css/header.css" />
   <link rel="stylesheet" href="css/sidebar.css" />
@@ -23,16 +24,12 @@
           <span></span>
         </button>
         <div class="logo-header">
-          <div class="logo-icon-header">📄</div>
-          <span class="logo-text-header">ChatPDF</span>
+          <div><img src="img/logo.svg"  class="user-avatar" ></div>
+          <span class="logo-text-header">JDIHChatPDF</span>
         </div>
         <button class="header-btn" id="newChatBtn">
           <span>📄</span> Upload PDF
         </button>
-      </div>
-      <div class="header-right">
-        <button class="upgrade-btn">✨ Plus upgrade</button>
-        <div class="user-avatar">AR</div>
       </div>
     </header>
 
@@ -41,8 +38,8 @@
       <aside class="sidebar" id="sidebar">
         <div class="sidebar-section">
           <div class="sidebar-header">
-            <span>💬 Chats</span>
-            <span class="view-all">All ›</span>
+            <span>💬 Chat</span>
+            <span class="view-all">Semua ›</span>
           </div>
           <div class="chat-list" id="chatList">
             <!-- Chat items akan muncul di sini -->
@@ -51,21 +48,9 @@
 
         <div class="sidebar-section">
           <div class="sidebar-header">
-            <span>📁 Folders</span>
+            <span>📁 Folder</span>
           </div>
-          <button class="sidebar-btn">+ New folder</button>
-        </div>
-
-        <div class="sidebar-section">
-          <div class="sidebar-header">
-            <span>🔧 Tools</span>
-          </div>
-          <button class="sidebar-btn">✍️ AI Writer</button>
-          <button class="sidebar-btn">🔍 AI Detector</button>
-          <button class="sidebar-btn">📺 YouTube Chat</button>
-          <button class="sidebar-btn">🔬 Research</button>
-          <button class="sidebar-btn">💻 Windows app</button>
-          <button class="sidebar-btn">📱 Mobile app</button>
+          <button class="sidebar-btn">+ Folder baru</button>
         </div>
       </aside>
 
@@ -73,45 +58,34 @@
       <main class="main-content">
         <!-- Welcome Screen -->
         <div class="welcome-screen" id="welcomeScreen">
-          <div class="welcome-header">
-            <div class="badges">
-              <div class="badge">
-                <span>🏆 #1 PDF Chat AI</span>
-                <strong>Original</strong>
-              </div>
-              <div class="badge">
-                <span>💬 Q's answered every day</span>
-                <strong>1,000,000+</strong>
-              </div>
-              <div class="badge">
-                <span>⭐ Gen AI apps of 2024</span>
-                <strong>Top 50</strong>
-              </div>
-            </div>
-          </div>
-
           <h1 class="welcome-title">
-            Chat with any<span class="highlight">PDF</span>
+            Chat dengan<span class="highlight">PDF</span>
           </h1>
           
           <p class="welcome-subtitle">
-            Join millions of <span class="text-link">students, researchers and professionals</span> to instantly<br>
-            answer questions and understand research with AI
+            Upload pdf dan<span class="text-link"> tanyakan seputar informasi pdf</span> dengan cepat <br>
           </p>
 
-          <div class="upload-area" id="uploadArea">
-            <div class="upload-box">
-              <div class="upload-icon-large">⬆️</div>
-              <p class="upload-text">Click to upload, or drag PDF here</p>
-              <button class="upload-btn-large" onclick="document.getElementById('pdfInput').click()">
-                <span>➕</span> Upload PDF
-                <span class="dropdown-icon">▼</span>
-              </button>
-              <input type="file" id="pdfInput" accept=".pdf" style="display: none;" />
+          <div class="upload-box">
+            <!-- Ikon upload SVG -->
+            <div class="upload-icon-large">
+              <svg xmlns="http://www.w3.org/2000/svg" class="icon-upload" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="64" height="64">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M16 8l-4-4m0 0L8 8m4-4v12" />
+              </svg>
             </div>
-            <div class="upload-hint">
-              <span class="arrow-hint">DRAG & DROP YOUR<br>PDF FILE HERE</span>
-            </div>
+
+            <!-- Teks petunjuk -->
+            <p class="upload-text">Click to upload, or drag PDF here</p>
+
+            <!-- Tombol upload -->
+            <button class="upload-btn-large" onclick="document.getElementById('pdfInput').click()">
+              <svg xmlns="http://www.w3.org/2000/svg" class="icon-btn" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M16 8l-4-4m0 0L8 8m4-4v12" />
+              </svg>
+              Upload PDF
+            </button>
+            <!-- Input file tersembunyi -->
+            <input type="file" id="pdfInput" accept=".pdf" style="display: none;" />
           </div>
         </div>
 
@@ -193,11 +167,6 @@
                     </svg>
                   </button>
                 </div>
-                <div class="input-actions">
-                  <button class="action-btn" id="fastBtn">⚡ Fast</button>
-                  <button class="action-btn active" id="qualityBtn">🎯 High quality</button>
-                  <button class="action-btn" id="plusBtn">+</button>
-                </div>
               </div>
             </div>
           </div>
@@ -207,6 +176,7 @@
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="js/config.js"></script>
   <script src="js/pdf-handler.js"></script>
   <script src="js/chat-handler.js"></script>

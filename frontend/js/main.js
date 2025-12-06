@@ -19,12 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // Check if PDF.js is loaded
     if (typeof pdfjsLib === 'undefined') {
       console.error('❌ PDF.js library not loaded!');
-      alert('Error: PDF viewer library not loaded. Please refresh the page.');
+      // alert('Error: PDF viewer library not loaded. Please refresh the page.');
     }
     
   } catch (error) {
     console.error('❌ Initialization error:', error);
-    alert('Error initializing application. Please refresh the page.');
+    // alert('Error initializing application. Please refresh the page.');
   }
 });
 

@@ -209,7 +209,7 @@
 
 .chat-input-area {
   padding: 16px 24px;
-  border-top: 1px solid #e5e7eb;
+  border-top: 2px solid #e5e7eb;
   background: white;
 }
 
@@ -225,11 +225,11 @@
   flex: 1;
   border: 2px solid #e5e7eb;
   border-radius: 12px;
-  padding: 12px 50px 12px 16px;
+  padding: 13px 50px 12px 16px;
   font-size: 14px;
   font-family: inherit;
   resize: none;
-  max-height: 120px;
+  max-height: 140px;
   transition: border-color 0.2s;
   overflow-y: hidden;
 }
@@ -242,7 +242,7 @@
 .send-btn {
   position: absolute;
   right: 8px;
-  bottom: 8px;
+  bottom: 6px;
   width: 36px;
   height: 36px;
   background: #7c3aed;
@@ -293,4 +293,32 @@
   background: #7c3aed;
   color: white;
   border-color: #7c3aed;
+}
+
+.typing-loader span {
+  display: inline-block;
+  animation: blink 1.4s infinite both;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.typing-loader span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.typing-loader span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes blink {
+  0% { opacity: 0.2; }
+  20% { opacity: 1; }
+  100% { opacity: 0.2; }
+}
+
+.loading-bubble .message-content {
+  background: #f3f4f6;
+  color: #555;
+  padding: 10px 16px;
+  border-radius: 12px;
 }
